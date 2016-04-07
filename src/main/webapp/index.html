@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+<html ng-app="mapNtrack">
+<head>
+    <script type="text/javascript" src="js/angular.min.js"></script> 
+    <script type="text/javascript" src="js/MapAndTrack.js"> </script>
+</head>
+<body>
+    <h2>Routes</h2>
+    
+    <div ng-controller="RouteController as ctrl" ng-init="load()">
+        <div ng-repeat="route in routes">
+            <a href="map.html?url=_ah/api/myApi/v1/routes/{{route.name}}">
+                {{route.name}}
+            </a> 
+            - 
+            {{ route.description }}
+        </div>
+    </div>
+    <br/>
+    <a href="map.html">Draw a new route</a>
+</body>
+</html>

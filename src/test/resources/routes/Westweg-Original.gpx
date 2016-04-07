@@ -1,0 +1,4361 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="Thomas Broell TrackViewer/Editor" version="1.1">
+  <rte>
+    <name>Westweg-Original</name>
+    <rtept lat="48.8709503877908" lon="8.64937447942793">
+      <name>P1</name>
+      <ele>299</ele>
+      <time>2008-05-01T10:51:04Z</time>
+    </rtept>
+    <rtept lat="48.8701654225588" lon="8.64785282872617">
+      <name>P2</name>
+      <ele>285</ele>
+      <time>2008-05-01T10:51:29Z</time>
+    </rtept>
+    <rtept lat="48.8673895876855" lon="8.64695621654391">
+      <name>P3</name>
+      <ele>288</ele>
+      <time>2008-05-01T10:52:31Z</time>
+    </rtept>
+    <rtept lat="48.8646138366312" lon="8.64441683515906">
+      <name>P4</name>
+      <ele>289</ele>
+      <time>2008-05-01T10:53:31Z</time>
+    </rtept>
+    <rtept lat="48.8642727769911" lon="8.64020207896829">
+      <name>P5</name>
+      <ele>292</ele>
+      <time>2008-05-01T10:54:28Z</time>
+    </rtept>
+    <rtept lat="48.8628538884223" lon="8.63871546462178">
+      <name>P6</name>
+      <ele>294</ele>
+      <time>2008-05-01T10:55:03Z</time>
+    </rtept>
+    <rtept lat="48.8592306431383" lon="8.64072754047811">
+      <name>P7</name>
+      <ele>297</ele>
+      <time>2008-05-01T10:56:28Z</time>
+    </rtept>
+    <rtept lat="48.8569373544306" lon="8.63810031674802">
+      <name>P8</name>
+      <ele>300</ele>
+      <time>2008-05-01T10:57:27Z</time>
+    </rtept>
+    <rtept lat="48.8545125536621" lon="8.62703779712319">
+      <name>P9</name>
+      <ele>315</ele>
+      <time>2008-05-01T11:00:30Z</time>
+    </rtept>
+    <rtept lat="48.8547454867512" lon="8.62449757754803">
+      <name>P10</name>
+      <ele>306</ele>
+      <time>2008-05-01T11:00:59Z</time>
+    </rtept>
+    <rtept lat="48.8537371437997" lon="8.6196190584451">
+      <name>P11</name>
+      <ele>313</ele>
+      <time>2008-05-01T11:02:19Z</time>
+    </rtept>
+    <rtept lat="48.8541294168681" lon="8.61870895139873">
+      <name>P12</name>
+      <ele>305</ele>
+      <time>2008-05-01T11:02:39Z</time>
+    </rtept>
+    <rtept lat="48.8533817511052" lon="8.61615004017949">
+      <name>P13</name>
+      <ele>308</ele>
+      <time>2008-05-01T11:03:34Z</time>
+    </rtept>
+    <rtept lat="48.8536668196321" lon="8.6104734800756">
+      <name>P14</name>
+      <ele>311</ele>
+      <time>2008-05-01T11:05:59Z</time>
+    </rtept>
+    <rtept lat="48.8505928404629" lon="8.60763939097524">
+      <name>P15</name>
+      <ele>308</ele>
+      <time>2008-05-01T11:07:27Z</time>
+    </rtept>
+    <rtept lat="48.8476478587836" lon="8.60470237210393">
+      <name>P16</name>
+      <ele>313</ele>
+      <time>2008-05-01T11:08:46Z</time>
+    </rtept>
+    <rtept lat="48.848195951432" lon="8.59895079396665">
+      <name>P17</name>
+      <ele>316</ele>
+      <time>2008-05-01T11:10:53Z</time>
+    </rtept>
+    <rtept lat="48.8477218709886" lon="8.59797664918005">
+      <name>P18</name>
+      <ele>332</ele>
+      <time>2008-05-01T11:12:04Z</time>
+    </rtept>
+    <rtept lat="48.8466370850801" lon="8.59823414124548">
+      <name>P19</name>
+      <ele>356</ele>
+      <time>2008-05-01T11:13:36Z</time>
+    </rtept>
+    <rtept lat="48.8471183739603" lon="8.59652842395008">
+      <name>P20</name>
+      <ele>367</ele>
+      <time>2008-05-01T11:15:23Z</time>
+    </rtept>
+    <rtept lat="48.8467402663082" lon="8.59107758849859">
+      <name>P21</name>
+      <ele>390</ele>
+      <time>2008-05-01T11:18:53Z</time>
+    </rtept>
+    <rtept lat="48.8476008363068" lon="8.59140523709357">
+      <name>P22</name>
+      <ele>369</ele>
+      <time>2008-05-01T11:19:12Z</time>
+    </rtept>
+    <rtept lat="48.8476873375475" lon="8.59098647721112">
+      <name>P23</name>
+      <ele>361</ele>
+      <time>2008-05-01T11:19:19Z</time>
+    </rtept>
+    <rtept lat="48.846301138401" lon="8.58960907906294">
+      <name>P24</name>
+      <ele>327</ele>
+      <time>2008-05-01T11:19:43Z</time>
+    </rtept>
+    <rtept lat="48.8467945810407" lon="8.58733037486672">
+      <name>P25</name>
+      <ele>324</ele>
+      <time>2008-05-01T11:20:47Z</time>
+    </rtept>
+    <rtept lat="48.8503063470125" lon="8.58723389916122">
+      <name>P26</name>
+      <ele>373</ele>
+      <time>2008-05-01T11:24:45Z</time>
+    </rtept>
+    <rtept lat="48.8488885480911" lon="8.5853473842144">
+      <name>P27</name>
+      <ele>403</ele>
+      <time>2008-05-01T11:32:47Z</time>
+    </rtept>
+    <rtept lat="48.8494084775448" lon="8.58490582555532">
+      <name>P28</name>
+      <ele>414</ele>
+      <time>2008-05-01T11:33:44Z</time>
+    </rtept>
+    <rtept lat="48.8493043743074" lon="8.58424549922347">
+      <name>P29</name>
+      <ele>426</ele>
+      <time>2008-05-01T11:34:34Z</time>
+    </rtept>
+    <rtept lat="48.8478914368898" lon="8.58391198329628">
+      <name>P30</name>
+      <ele>454</ele>
+      <time>2008-05-01T11:36:50Z</time>
+    </rtept>
+    <rtept lat="48.8467690162361" lon="8.56916293501854">
+      <name>P31</name>
+      <ele>454</ele>
+      <time>2008-05-01T11:41:38Z</time>
+    </rtept>
+    <rtept lat="48.8459016568959" lon="8.56020108796656">
+      <name>P32</name>
+      <ele>431</ele>
+      <time>2008-05-01T11:42:49Z</time>
+    </rtept>
+    <rtept lat="48.8461907487363" lon="8.55806152336299">
+      <name>P33</name>
+      <ele>438</ele>
+      <time>2008-05-01T11:43:44Z</time>
+    </rtept>
+    <rtept lat="48.8423950877041" lon="8.55274027213454">
+      <name>P34</name>
+      <ele>462</ele>
+      <time>2008-05-01T11:46:48Z</time>
+    </rtept>
+    <rtept lat="48.8417310733348" lon="8.55150385759771">
+      <name>P35</name>
+      <ele>463</ele>
+      <time>2008-05-01T11:47:13Z</time>
+    </rtept>
+    <rtept lat="48.8401782419533" lon="8.5508896317333">
+      <name>P36</name>
+      <ele>475</ele>
+      <time>2008-05-01T11:48:06Z</time>
+    </rtept>
+    <rtept lat="48.8388484530151" lon="8.54837103746831">
+      <name>P37</name>
+      <ele>476</ele>
+      <time>2008-05-01T11:49:00Z</time>
+    </rtept>
+    <rtept lat="48.8371532969177" lon="8.54765639640391">
+      <name>P38</name>
+      <ele>483</ele>
+      <time>2008-05-01T11:49:47Z</time>
+    </rtept>
+    <rtept lat="48.8349299971014" lon="8.54822619818151">
+      <name>P39</name>
+      <ele>497</ele>
+      <time>2008-05-01T11:50:59Z</time>
+    </rtept>
+    <rtept lat="48.8299773819745" lon="8.54649969376624">
+      <name>P40</name>
+      <ele>510</ele>
+      <time>2008-05-01T11:53:04Z</time>
+    </rtept>
+    <rtept lat="48.8257597759366" lon="8.54194354265928">
+      <name>P41</name>
+      <ele>550</ele>
+      <time>2008-05-01T11:56:52Z</time>
+    </rtept>
+    <rtept lat="48.8193628750741" lon="8.54384698905051">
+      <name>P42</name>
+      <ele>603</ele>
+      <time>2008-05-01T12:01:48Z</time>
+    </rtept>
+    <rtept lat="48.8141740579158" lon="8.54199819266796">
+      <name>P43</name>
+      <ele>650</ele>
+      <time>2008-05-01T12:06:45Z</time>
+    </rtept>
+    <rtept lat="48.8121187314391" lon="8.54000153951347">
+      <name>P44</name>
+      <ele>653</ele>
+      <time>2008-05-01T12:07:43Z</time>
+    </rtept>
+    <rtept lat="48.8124194741249" lon="8.53615692816675">
+      <name>P45</name>
+      <ele>653</ele>
+      <time>2008-05-01T12:09:24Z</time>
+    </rtept>
+    <rtept lat="48.8119444716722" lon="8.53048087097704">
+      <name>P46</name>
+      <ele>658</ele>
+      <time>2008-05-01T12:10:56Z</time>
+    </rtept>
+    <rtept lat="48.8105163630098" lon="8.52859343402088">
+      <name>P47</name>
+      <ele>654</ele>
+      <time>2008-05-01T12:11:32Z</time>
+    </rtept>
+    <rtept lat="48.8100530952215" lon="8.52585213258863">
+      <name>P48</name>
+      <ele>650</ele>
+      <time>2008-05-01T12:12:43Z</time>
+    </rtept>
+    <rtept lat="48.804742321372" lon="8.52532306686044">
+      <name>P49</name>
+      <ele>672</ele>
+      <time>2008-05-01T12:17:45Z</time>
+    </rtept>
+    <rtept lat="48.8020672369748" lon="8.52594366297126">
+      <name>P50</name>
+      <ele>692</ele>
+      <time>2008-05-01T12:19:23Z</time>
+    </rtept>
+    <rtept lat="48.8008735701442" lon="8.52398766204715">
+      <name>P51</name>
+      <ele>699</ele>
+      <time>2008-05-01T12:20:21Z</time>
+    </rtept>
+    <rtept lat="48.7999218888581" lon="8.52016006596386">
+      <name>P52</name>
+      <ele>694</ele>
+      <time>2008-05-01T12:21:11Z</time>
+    </rtept>
+    <rtept lat="48.7997219804674" lon="8.51582863368094">
+      <name>P53</name>
+      <ele>685</ele>
+      <time>2008-05-01T12:21:53Z</time>
+    </rtept>
+    <rtept lat="48.7988396175206" lon="8.51427152752876">
+      <name>P54</name>
+      <ele>682</ele>
+      <time>2008-05-01T12:22:12Z</time>
+    </rtept>
+    <rtept lat="48.7962853163481" lon="8.50407108664513">
+      <name>P55</name>
+      <ele>696</ele>
+      <time>2008-05-01T12:30:55Z</time>
+    </rtept>
+    <rtept lat="48.7946450486725" lon="8.49904495297021">
+      <name>P56</name>
+      <ele>696</ele>
+      <time>2008-05-01T12:32:40Z</time>
+    </rtept>
+    <rtept lat="48.7951212376356" lon="8.49525173194706">
+      <name>P57</name>
+      <ele>714</ele>
+      <time>2008-05-01T12:34:41Z</time>
+    </rtept>
+    <rtept lat="48.7889798171818" lon="8.48241124302149">
+      <name>P58</name>
+      <ele>684</ele>
+      <time>2008-05-01T12:41:36Z</time>
+    </rtept>
+    <rtept lat="48.7881681974977" lon="8.48214553669095">
+      <name>P59</name>
+      <ele>683</ele>
+      <time>2008-05-01T12:41:49Z</time>
+    </rtept>
+    <rtept lat="48.7869244907051" lon="8.48272036761045">
+      <name>P60</name>
+      <ele>687</ele>
+      <time>2008-05-01T12:42:23Z</time>
+    </rtept>
+    <rtept lat="48.7858705502003" lon="8.48413439467549">
+      <name>P61</name>
+      <ele>698</ele>
+      <time>2008-05-01T12:43:10Z</time>
+    </rtept>
+    <rtept lat="48.7829661369324" lon="8.48276009783149">
+      <name>P62</name>
+      <ele>726</ele>
+      <time>2008-05-01T12:45:54Z</time>
+    </rtept>
+    <rtept lat="48.7812203541398" lon="8.4806476905942">
+      <name>P63</name>
+      <ele>750</ele>
+      <time>2008-05-01T12:48:11Z</time>
+    </rtept>
+    <rtept lat="48.7809944618493" lon="8.47870535217226">
+      <name>P64</name>
+      <ele>764</ele>
+      <time>2008-05-01T12:49:31Z</time>
+    </rtept>
+    <rtept lat="48.7823189701885" lon="8.47400352358818">
+      <name>P65</name>
+      <ele>763</ele>
+      <time>2008-05-01T12:51:02Z</time>
+    </rtept>
+    <rtept lat="48.7822115980089" lon="8.47008028998971">
+      <name>P66</name>
+      <ele>758</ele>
+      <time>2008-05-01T12:51:54Z</time>
+    </rtept>
+    <rtept lat="48.7781387474388" lon="8.47509937360883">
+      <name>P67</name>
+      <ele>787</ele>
+      <time>2008-05-01T12:55:26Z</time>
+    </rtept>
+    <rtept lat="48.7756632361561" lon="8.47644919529557">
+      <name>P68</name>
+      <ele>807</ele>
+      <time>2008-05-01T12:57:04Z</time>
+    </rtept>
+    <rtept lat="48.7735342327505" lon="8.4744689706713">
+      <name>P69</name>
+      <ele>823</ele>
+      <time>2008-05-01T12:58:55Z</time>
+    </rtept>
+    <rtept lat="48.7697422597557" lon="8.47309911623597">
+      <name>P70</name>
+      <ele>829</ele>
+      <time>2008-05-01T13:00:55Z</time>
+    </rtept>
+    <rtept lat="48.7678722571582" lon="8.47172456793487">
+      <name>P71</name>
+      <ele>821</ele>
+      <time>2008-05-01T13:01:31Z</time>
+    </rtept>
+    <rtept lat="48.7656027730554" lon="8.46181129105389">
+      <name>P72</name>
+      <ele>842</ele>
+      <time>2008-05-01T13:04:36Z</time>
+    </rtept>
+    <rtept lat="48.7659153342247" lon="8.45931977033615">
+      <name>P73</name>
+      <ele>840</ele>
+      <time>2008-05-01T13:05:13Z</time>
+    </rtept>
+    <rtept lat="48.7683507800102" lon="8.4577801823616">
+      <name>P74</name>
+      <ele>829</ele>
+      <time>2008-05-01T13:05:41Z</time>
+    </rtept>
+    <rtept lat="48.7681197747588" lon="8.45629759132862">
+      <name>P75</name>
+      <ele>832</ele>
+      <time>2008-05-01T13:06:01Z</time>
+    </rtept>
+    <rtept lat="48.7674310337752" lon="8.45514457672834">
+      <name>P76</name>
+      <ele>836</ele>
+      <time>2008-05-01T13:06:33Z</time>
+    </rtept>
+    <rtept lat="48.7634698301554" lon="8.45570272766054">
+      <name>P77</name>
+      <ele>849</ele>
+      <time>2008-05-01T13:09:30Z</time>
+    </rtept>
+    <rtept lat="48.7619647756219" lon="8.45481902360916">
+      <name>P78</name>
+      <ele>864</ele>
+      <time>2008-05-01T13:10:55Z</time>
+    </rtept>
+    <rtept lat="48.7613219674677" lon="8.45362577587366">
+      <name>P79</name>
+      <ele>873</ele>
+      <time>2008-05-01T13:11:46Z</time>
+    </rtept>
+    <rtept lat="48.761008232832" lon="8.44851826317608">
+      <name>P80</name>
+      <ele>871</ele>
+      <time>2008-05-01T13:13:00Z</time>
+    </rtept>
+    <rtept lat="48.7591884378344" lon="8.44339717179537">
+      <name>P81</name>
+      <ele>866</ele>
+      <time>2008-05-01T13:14:16Z</time>
+    </rtept>
+    <rtept lat="48.7572229653597" lon="8.44100656919181">
+      <name>P82</name>
+      <ele>869</ele>
+      <time>2008-05-01T13:15:10Z</time>
+    </rtept>
+    <rtept lat="48.7522847671062" lon="8.43989881686866">
+      <name>P83</name>
+      <ele>896</ele>
+      <time>2008-05-01T13:20:59Z</time>
+    </rtept>
+    <rtept lat="48.7503039557487" lon="8.43288945034146">
+      <name>P84</name>
+      <ele>898</ele>
+      <time>2008-05-01T13:25:07Z</time>
+    </rtept>
+    <rtept lat="48.7495501173092" lon="8.42763675028408">
+      <name>P85</name>
+      <ele>879</ele>
+      <time>2008-05-01T13:26:11Z</time>
+    </rtept>
+    <rtept lat="48.7481907941401" lon="8.42702614143491">
+      <name>P86</name>
+      <ele>904</ele>
+      <time>2008-05-01T13:59:09Z</time>
+    </rtept>
+    <rtept lat="48.7458546739072" lon="8.42838099226356">
+      <name>P87</name>
+      <ele>944</ele>
+      <time>2008-05-01T14:02:48Z</time>
+    </rtept>
+    <rtept lat="48.7421917822212" lon="8.4263305272907">
+      <name>P88</name>
+      <ele>930</ele>
+      <time>2008-05-01T14:06:31Z</time>
+    </rtept>
+    <rtept lat="48.7398745212704" lon="8.42467057518661">
+      <name>P89</name>
+      <ele>921</ele>
+      <time>2008-05-01T14:07:49Z</time>
+    </rtept>
+    <rtept lat="48.734286557883" lon="8.42438517138362">
+      <name>P90</name>
+      <ele>889</ele>
+      <time>2008-05-01T14:09:56Z</time>
+    </rtept>
+    <rtept lat="48.7314026802778" lon="8.42764372006059">
+      <name>P91</name>
+      <ele>888</ele>
+      <time>2008-05-01T14:11:00Z</time>
+    </rtept>
+    <rtept lat="48.7278397846967" lon="8.42581151984632">
+      <name>P92</name>
+      <ele>886</ele>
+      <time>2008-05-01T14:11:52Z</time>
+    </rtept>
+    <rtept lat="48.7206178531051" lon="8.43169871717691">
+      <name>P93</name>
+      <ele>919</ele>
+      <time>2008-05-01T14:15:29Z</time>
+    </rtept>
+    <rtept lat="48.7191458232701" lon="8.43237957917154">
+      <name>P94</name>
+      <ele>925</ele>
+      <time>2008-05-01T14:16:17Z</time>
+    </rtept>
+    <rtept lat="48.7184390611947" lon="8.43358648940921">
+      <name>P95</name>
+      <ele>934</ele>
+      <time>2008-05-01T14:16:48Z</time>
+    </rtept>
+    <rtept lat="48.7158096581697" lon="8.43535741791129">
+      <name>P96</name>
+      <ele>934</ele>
+      <time>2008-05-01T14:17:55Z</time>
+    </rtept>
+    <rtept lat="48.7075898610055" lon="8.43055039644241">
+      <name>P97</name>
+      <ele>878</ele>
+      <time>2008-05-01T14:20:49Z</time>
+    </rtept>
+    <rtept lat="48.7055187765509" lon="8.42594252899289">
+      <name>P98</name>
+      <ele>916</ele>
+      <time>2008-05-01T14:23:56Z</time>
+    </rtept>
+    <rtept lat="48.7041864730418" lon="8.42503133229911">
+      <name>P99</name>
+      <ele>942</ele>
+      <time>2008-05-01T14:25:47Z</time>
+    </rtept>
+    <rtept lat="48.7044552806765" lon="8.42449212446809">
+      <name>P100</name>
+      <ele>948</ele>
+      <time>2008-05-01T14:26:18Z</time>
+    </rtept>
+    <rtept lat="48.7035999912769" lon="8.41956951655447">
+      <name>P101</name>
+      <ele>983</ele>
+      <time>2008-05-01T14:29:47Z</time>
+    </rtept>
+    <rtept lat="48.7082527857274" lon="8.41261018998921">
+      <name>P102</name>
+      <ele>977</ele>
+      <time>2008-05-01T14:37:32Z</time>
+    </rtept>
+    <rtept lat="48.7005481403321" lon="8.40675593353808">
+      <name>P103</name>
+      <ele>955</ele>
+      <time>2008-05-01T14:43:46Z</time>
+    </rtept>
+    <rtept lat="48.6938821803778" lon="8.41196922585368">
+      <name>P104</name>
+      <ele>979</ele>
+      <time>2008-05-01T14:47:16Z</time>
+    </rtept>
+    <rtept lat="48.6849985364825" lon="8.41014423407614">
+      <name>P105</name>
+      <ele>975</ele>
+      <time>2008-05-01T14:51:08Z</time>
+    </rtept>
+    <rtept lat="48.6796726752073" lon="8.41248798184097">
+      <name>P106</name>
+      <ele>952</ele>
+      <time>2008-05-01T14:52:52Z</time>
+    </rtept>
+    <rtept lat="48.676688130945" lon="8.4158587642014">
+      <name>P107</name>
+      <ele>948</ele>
+      <time>2008-05-01T14:54:02Z</time>
+    </rtept>
+    <rtept lat="48.6718140542507" lon="8.41896669007838">
+      <name>P108</name>
+      <ele>929</ele>
+      <time>2008-05-01T14:57:13Z</time>
+    </rtept>
+    <rtept lat="48.6642546672374" lon="8.42000294476748">
+      <name>P109</name>
+      <ele>914</ele>
+      <time>2008-05-01T14:59:55Z</time>
+    </rtept>
+    <rtept lat="48.6629800312221" lon="8.41897289268672">
+      <name>P110</name>
+      <ele>911</ele>
+      <time>2008-05-01T15:00:22Z</time>
+    </rtept>
+    <rtept lat="48.6621724348515" lon="8.41362087987363">
+      <name>P111</name>
+      <ele>895</ele>
+      <time>2008-05-01T15:06:13Z</time>
+    </rtept>
+    <rtept lat="48.6671534646302" lon="8.41854223050177">
+      <name>P112</name>
+      <ele>891</ele>
+      <time>2008-05-01T15:09:00Z</time>
+    </rtept>
+    <rtept lat="48.668696153909" lon="8.4182814694941">
+      <name>P113</name>
+      <ele>896</ele>
+      <time>2008-05-01T15:09:45Z</time>
+    </rtept>
+    <rtept lat="48.6735887546092" lon="8.41509684920311">
+      <name>P114</name>
+      <ele>934</ele>
+      <time>2008-05-01T15:12:43Z</time>
+    </rtept>
+    <rtept lat="48.678501136601" lon="8.41079701669514">
+      <name>P115</name>
+      <ele>951</ele>
+      <time>2008-05-01T15:15:30Z</time>
+    </rtept>
+    <rtept lat="48.685642182827" lon="8.40820709243417">
+      <name>P116</name>
+      <ele>971</ele>
+      <time>2008-05-01T15:19:38Z</time>
+    </rtept>
+    <rtept lat="48.6890977900475" lon="8.40800693258643">
+      <name>P117</name>
+      <ele>966</ele>
+      <time>2008-05-01T15:20:38Z</time>
+    </rtept>
+    <rtept lat="48.6949755996466" lon="8.40872819535434">
+      <name>P118</name>
+      <ele>947</ele>
+      <time>2008-05-01T15:24:16Z</time>
+    </rtept>
+    <rtept lat="48.6963232420385" lon="8.40804741717875">
+      <name>P119</name>
+      <ele>939</ele>
+      <time>2008-05-01T15:24:32Z</time>
+    </rtept>
+    <rtept lat="48.6977075971663" lon="8.40620909817517">
+      <name>P120</name>
+      <ele>921</ele>
+      <time>2008-05-01T15:24:48Z</time>
+    </rtept>
+    <rtept lat="48.6989694926888" lon="8.40721894986928">
+      <name>P121</name>
+      <ele>936</ele>
+      <time>2008-05-01T15:25:26Z</time>
+    </rtept>
+    <rtept lat="48.700270280242" lon="8.40689247474074">
+      <name>P122</name>
+      <ele>943</ele>
+      <time>2008-05-01T15:26:19Z</time>
+    </rtept>
+    <rtept lat="48.6986513994634" lon="8.40186182409525">
+      <name>P123</name>
+      <ele>931</ele>
+      <time>2008-05-01T15:29:00Z</time>
+    </rtept>
+    <rtept lat="48.6971493624151" lon="8.40005233883858">
+      <name>P124</name>
+      <ele>931</ele>
+      <time>2008-05-01T15:29:26Z</time>
+    </rtept>
+    <rtept lat="48.6949787847698" lon="8.39144487865269">
+      <name>P125</name>
+      <ele>844</ele>
+      <time>2008-05-01T15:30:34Z</time>
+    </rtept>
+    <rtept lat="48.693050192669" lon="8.3884534612298">
+      <name>P126</name>
+      <ele>797</ele>
+      <time>2008-05-01T15:31:11Z</time>
+    </rtept>
+    <rtept lat="48.6924803908914" lon="8.38852403685451">
+      <name>P127</name>
+      <ele>788</ele>
+      <time>2008-05-01T15:31:43Z</time>
+    </rtept>
+    <rtept lat="48.6923498846591" lon="8.38444012217224">
+      <name>P128</name>
+      <ele>762</ele>
+      <time>2008-05-01T15:41:44Z</time>
+    </rtept>
+    <rtept lat="48.6931075248867" lon="8.38030566461384">
+      <name>P129</name>
+      <ele>731</ele>
+      <time>2008-05-01T15:42:27Z</time>
+    </rtept>
+    <rtept lat="48.6926635354757" lon="8.37923688814044">
+      <name>P130</name>
+      <ele>721</ele>
+      <time>2008-05-01T15:43:16Z</time>
+    </rtept>
+    <rtept lat="48.6918556876481" lon="8.379275361076">
+      <name>P131</name>
+      <ele>703</ele>
+      <time>2008-05-01T15:43:37Z</time>
+    </rtept>
+    <rtept lat="48.6918842699379" lon="8.37767609395087">
+      <name>P132</name>
+      <ele>624</ele>
+      <time>2008-05-01T15:47:16Z</time>
+    </rtept>
+    <rtept lat="48.6898022890091" lon="8.37548489682376">
+      <name>P133</name>
+      <ele>587</ele>
+      <time>2008-05-01T15:47:47Z</time>
+    </rtept>
+    <rtept lat="48.6914698686451" lon="8.37558807805181">
+      <name>P134</name>
+      <ele>560</ele>
+      <time>2008-05-01T15:48:14Z</time>
+    </rtept>
+    <rtept lat="48.6914744786918" lon="8.37491794489324">
+      <name>P135</name>
+      <ele>533</ele>
+      <time>2008-05-01T15:48:50Z</time>
+    </rtept>
+    <rtept lat="48.6877113394439" lon="8.37059983983636">
+      <name>P136</name>
+      <ele>451</ele>
+      <time>2008-05-01T16:02:38Z</time>
+    </rtept>
+    <rtept lat="48.6858170293272" lon="8.37070268578827">
+      <name>P137</name>
+      <ele>404</ele>
+      <time>2008-05-01T16:03:20Z</time>
+    </rtept>
+    <rtept lat="48.6851116921753" lon="8.37181379087269">
+      <name>P138</name>
+      <ele>385</ele>
+      <time>2008-05-01T16:03:42Z</time>
+    </rtept>
+    <rtept lat="48.6841494496912" lon="8.36942084133625">
+      <name>P139</name>
+      <ele>374</ele>
+      <time>2008-05-01T16:05:43Z</time>
+    </rtept>
+    <rtept lat="48.6846509389579" lon="8.36870628409088">
+      <name>P140</name>
+      <ele>377</ele>
+      <time>2008-05-01T16:06:40Z</time>
+    </rtept>
+    <rtept lat="48.6848738975823" lon="8.36671449244022">
+      <name>P141</name>
+      <ele>384</ele>
+      <time>2008-05-01T16:08:22Z</time>
+    </rtept>
+    <rtept lat="48.6830698605627" lon="8.36562115699053">
+      <name>P142</name>
+      <ele>396</ele>
+      <time>2008-05-01T16:09:47Z</time>
+    </rtept>
+    <rtept lat="48.6812076531351" lon="8.36374654434621">
+      <name>P143</name>
+      <ele>397</ele>
+      <time>2008-05-01T16:10:34Z</time>
+    </rtept>
+    <rtept lat="48.6791999358684" lon="8.36403714492917">
+      <name>P144</name>
+      <ele>376</ele>
+      <time>2008-05-01T16:11:09Z</time>
+    </rtept>
+    <rtept lat="48.6801784392446" lon="8.362598977983">
+      <name>P145</name>
+      <ele>358</ele>
+      <time>2008-05-01T16:11:26Z</time>
+    </rtept>
+    <rtept lat="48.6829071678221" lon="8.36216077208519">
+      <name>P146</name>
+      <ele>327</ele>
+      <time>2008-05-01T16:13:21Z</time>
+    </rtept>
+    <rtept lat="48.6834933981299" lon="8.36155618540943">
+      <name>P147</name>
+      <ele>313</ele>
+      <time>2008-05-01T16:13:32Z</time>
+    </rtept>
+    <rtept lat="48.6813730280846" lon="8.36101689375937">
+      <name>P148</name>
+      <ele>301</ele>
+      <time>2008-05-01T16:14:30Z</time>
+    </rtept>
+    <rtept lat="48.677927646786" lon="8.36177629418671">
+      <name>P149</name>
+      <ele>287</ele>
+      <time>2008-05-02T08:22:15Z</time>
+    </rtept>
+    <rtept lat="48.6778051871806" lon="8.35463524796069">
+      <name>P150</name>
+      <ele>335</ele>
+      <time>2008-05-02T08:26:12Z</time>
+    </rtept>
+    <rtept lat="48.6755036842078" lon="8.35276298224926">
+      <name>P151</name>
+      <ele>383</ele>
+      <time>2008-05-02T08:30:24Z</time>
+    </rtept>
+    <rtept lat="48.6729329545051" lon="8.3470415789634">
+      <name>P152</name>
+      <ele>452</ele>
+      <time>2008-05-02T08:36:59Z</time>
+    </rtept>
+    <rtept lat="48.6723422817886" lon="8.34661401808262">
+      <name>P153</name>
+      <ele>456</ele>
+      <time>2008-05-02T08:37:33Z</time>
+    </rtept>
+    <rtept lat="48.6723707802594" lon="8.34562478587031">
+      <name>P154</name>
+      <ele>463</ele>
+      <time>2008-05-02T08:38:28Z</time>
+    </rtept>
+    <rtept lat="48.6709588486701" lon="8.34466019645333">
+      <name>P155</name>
+      <ele>496</ele>
+      <time>2008-05-02T08:41:58Z</time>
+    </rtept>
+    <rtept lat="48.6712430790067" lon="8.34654553793371">
+      <name>P156</name>
+      <ele>515</ele>
+      <time>2008-05-02T08:44:11Z</time>
+    </rtept>
+    <rtept lat="48.6698011402041" lon="8.34150474518538">
+      <name>P157</name>
+      <ele>598</ele>
+      <time>2008-05-02T08:57:29Z</time>
+    </rtept>
+    <rtept lat="48.6693448293954" lon="8.33628172986209">
+      <name>P158</name>
+      <ele>645</ele>
+      <time>2008-05-02T09:03:38Z</time>
+    </rtept>
+    <rtept lat="48.6684353929013" lon="8.33497381769121">
+      <name>P159</name>
+      <ele>683</ele>
+      <time>2008-05-02T09:07:47Z</time>
+    </rtept>
+    <rtept lat="48.6687548272312" lon="8.33434785716236">
+      <name>P160</name>
+      <ele>699</ele>
+      <time>2008-05-02T09:09:23Z</time>
+    </rtept>
+    <rtept lat="48.6684210598469" lon="8.33363187499344">
+      <name>P161</name>
+      <ele>710</ele>
+      <time>2008-05-02T09:10:25Z</time>
+    </rtept>
+    <rtept lat="48.6688201222569" lon="8.32544887438416">
+      <name>P162</name>
+      <ele>755</ele>
+      <time>2008-05-02T09:18:35Z</time>
+    </rtept>
+    <rtept lat="48.6636842787266" lon="8.31846239045262">
+      <name>P163</name>
+      <ele>699</ele>
+      <time>2008-05-02T09:19:58Z</time>
+    </rtept>
+    <rtept lat="48.6632780916989" lon="8.31129192374647">
+      <name>P164</name>
+      <ele>675</ele>
+      <time>2008-05-02T09:21:02Z</time>
+    </rtept>
+    <rtept lat="48.6660740431398" lon="8.30696895718575">
+      <name>P165</name>
+      <ele>691</ele>
+      <time>2008-05-02T09:23:42Z</time>
+    </rtept>
+    <rtept lat="48.668564055115" lon="8.30607695505023">
+      <name>P166</name>
+      <ele>705</ele>
+      <time>2008-05-02T09:25:20Z</time>
+    </rtept>
+    <rtept lat="48.6718000564724" lon="8.30315527506173">
+      <name>P167</name>
+      <ele>724</ele>
+      <time>2008-05-02T09:27:53Z</time>
+    </rtept>
+    <rtept lat="48.6725075729191" lon="8.29959891736507">
+      <name>P168</name>
+      <ele>737</ele>
+      <time>2008-05-02T09:29:30Z</time>
+    </rtept>
+    <rtept lat="48.6695995554328" lon="8.29486356116831">
+      <name>P169</name>
+      <ele>839</ele>
+      <time>2008-05-02T09:40:46Z</time>
+    </rtept>
+    <rtept lat="48.6704261787236" lon="8.29426199197769">
+      <name>P170</name>
+      <ele>853</ele>
+      <time>2008-05-02T09:42:07Z</time>
+    </rtept>
+    <rtept lat="48.6697462387383" lon="8.2936811260879">
+      <name>P171</name>
+      <ele>874</ele>
+      <time>2008-05-02T09:48:03Z</time>
+    </rtept>
+    <rtept lat="48.6697255354375" lon="8.29290906898677">
+      <name>P172</name>
+      <ele>885</ele>
+      <time>2008-05-02T09:49:33Z</time>
+    </rtept>
+    <rtept lat="48.6685898713768" lon="8.29128323122859">
+      <name>P173</name>
+      <ele>937</ele>
+      <time>2008-05-02T09:56:01Z</time>
+    </rtept>
+    <rtept lat="48.6685290187597" lon="8.2908632978797">
+      <name>P174</name>
+      <ele>943</ele>
+      <time>2008-05-02T09:56:42Z</time>
+    </rtept>
+    <rtept lat="48.6653523612767" lon="8.29036558046937">
+      <name>P175</name>
+      <ele>1003</ele>
+      <time>2008-05-02T10:04:48Z</time>
+    </rtept>
+    <rtept lat="48.668727837503" lon="8.27535375952721">
+      <name>P176</name>
+      <ele>1001</ele>
+      <time>2008-05-02T10:11:20Z</time>
+    </rtept>
+    <rtept lat="48.6690725851804" lon="8.2728863786906">
+      <name>P177</name>
+      <ele>992</ele>
+      <time>2008-05-02T10:21:39Z</time>
+    </rtept>
+    <rtept lat="48.6706378217787" lon="8.27518628910184">
+      <name>P178</name>
+      <ele>970</ele>
+      <time>2008-05-02T10:22:04Z</time>
+    </rtept>
+    <rtept lat="48.6711062863469" lon="8.27415799722075">
+      <name>P179</name>
+      <ele>960</ele>
+      <time>2008-05-02T10:22:15Z</time>
+    </rtept>
+    <rtept lat="48.6699509248137" lon="8.26583434827626">
+      <name>P180</name>
+      <ele>897</ele>
+      <time>2008-05-02T10:23:04Z</time>
+    </rtept>
+    <rtept lat="48.6699072550982" lon="8.26309405267239">
+      <name>P181</name>
+      <ele>875</ele>
+      <time>2008-05-02T10:23:21Z</time>
+    </rtept>
+    <rtept lat="48.6670059431344" lon="8.26114819385111">
+      <name>P182</name>
+      <ele>871</ele>
+      <time>2008-05-02T10:24:32Z</time>
+    </rtept>
+    <rtept lat="48.6663133464754" lon="8.2594757527113">
+      <name>P183</name>
+      <ele>866</ele>
+      <time>2008-05-02T10:24:55Z</time>
+    </rtept>
+    <rtept lat="48.6664372310042" lon="8.25249396264553">
+      <name>P184</name>
+      <ele>855</ele>
+      <time>2008-05-02T10:26:21Z</time>
+    </rtept>
+    <rtept lat="48.6651762574911" lon="8.24976389296353">
+      <name>P185</name>
+      <ele>848</ele>
+      <time>2008-05-02T10:26:49Z</time>
+    </rtept>
+    <rtept lat="48.6571958474815" lon="8.23893749155104">
+      <name>P186</name>
+      <ele>832</ele>
+      <time>2008-05-02T10:29:35Z</time>
+    </rtept>
+    <rtept lat="48.652635589242" lon="8.23295633308589">
+      <name>P187</name>
+      <ele>875</ele>
+      <time>2008-05-02T10:33:57Z</time>
+    </rtept>
+    <rtept lat="48.6501798592508" lon="8.2317625824362">
+      <name>P188</name>
+      <ele>889</ele>
+      <time>2008-05-02T10:35:32Z</time>
+    </rtept>
+    <rtept lat="48.6458228621632" lon="8.23196559213102">
+      <name>P189</name>
+      <ele>890</ele>
+      <time>2008-05-02T10:37:12Z</time>
+    </rtept>
+    <rtept lat="48.6439505964518" lon="8.23029139079154">
+      <name>P190</name>
+      <ele>886</ele>
+      <time>2008-05-02T10:38:04Z</time>
+    </rtept>
+    <rtept lat="48.6426647286862" lon="8.23107291944325">
+      <name>P191</name>
+      <ele>891</ele>
+      <time>2008-05-02T10:38:50Z</time>
+    </rtept>
+    <rtept lat="48.6423481442034" lon="8.2226122263819">
+      <name>P192</name>
+      <ele>939</ele>
+      <time>2008-05-02T10:44:40Z</time>
+    </rtept>
+    <rtept lat="48.6429615318775" lon="8.2227018289268">
+      <name>P193</name>
+      <ele>949</ele>
+      <time>2008-05-02T10:45:34Z</time>
+    </rtept>
+    <rtept lat="48.6427933908999" lon="8.21411482058465">
+      <name>P194</name>
+      <ele>982</ele>
+      <time>2008-05-02T10:52:32Z</time>
+    </rtept>
+    <rtept lat="48.641065293923" lon="8.21114259772003">
+      <name>P195</name>
+      <ele>1007</ele>
+      <time>2008-05-02T10:59:10Z</time>
+    </rtept>
+    <rtept lat="48.6367534752935" lon="8.20844546891749">
+      <name>P196</name>
+      <ele>1028</ele>
+      <time>2008-05-02T11:03:26Z</time>
+    </rtept>
+    <rtept lat="48.6323791276664" lon="8.21226887404919">
+      <name>P197</name>
+      <ele>999</ele>
+      <time>2008-05-02T11:06:06Z</time>
+    </rtept>
+    <rtept lat="48.631077921018" lon="8.2085884641856">
+      <name>P198</name>
+      <ele>961</ele>
+      <time>2008-05-02T11:08:29Z</time>
+    </rtept>
+    <rtept lat="48.6292197369039" lon="8.20726328529418">
+      <name>P199</name>
+      <ele>927</ele>
+      <time>2008-05-02T11:09:35Z</time>
+    </rtept>
+    <rtept lat="48.627861280096" lon="8.20751639576481">
+      <name>P200</name>
+      <ele>930</ele>
+      <time>2008-05-02T11:11:06Z</time>
+    </rtept>
+    <rtept lat="48.6269925431009" lon="8.20894016591665">
+      <name>P201</name>
+      <ele>937</ele>
+      <time>2008-05-02T11:11:58Z</time>
+    </rtept>
+    <rtept lat="48.6235367709543" lon="8.21065873361756">
+      <name>P202</name>
+      <ele>983</ele>
+      <time>2008-05-02T11:16:21Z</time>
+    </rtept>
+    <rtept lat="48.6200372235373" lon="8.20864474813438">
+      <name>P203</name>
+      <ele>1012</ele>
+      <time>2008-05-02T11:19:24Z</time>
+    </rtept>
+    <rtept lat="48.6190268397331" lon="8.20889809168875">
+      <name>P204</name>
+      <ele>1002</ele>
+      <time>2008-05-02T11:21:10Z</time>
+    </rtept>
+    <rtept lat="48.6188254225999" lon="8.21046877652407">
+      <name>P205</name>
+      <ele>1003</ele>
+      <time>2008-05-02T11:21:46Z</time>
+    </rtept>
+    <rtept lat="48.6180295608938" lon="8.21121199987829">
+      <name>P206</name>
+      <ele>1011</ele>
+      <time>2008-05-02T11:22:26Z</time>
+    </rtept>
+    <rtept lat="48.6140351649374" lon="8.20760317146778">
+      <name>P207</name>
+      <ele>1080</ele>
+      <time>2008-05-02T11:30:38Z</time>
+    </rtept>
+    <rtept lat="48.6133405566216" lon="8.20463254116476">
+      <name>P208</name>
+      <ele>1113</ele>
+      <time>2008-05-02T11:36:06Z</time>
+    </rtept>
+    <rtept lat="48.6097053252161" lon="8.20198226720095">
+      <name>P209</name>
+      <ele>1135</ele>
+      <time>2008-05-02T11:41:58Z</time>
+    </rtept>
+    <rtept lat="48.6061072256416" lon="8.20261199958622">
+      <name>P210</name>
+      <ele>1159</ele>
+      <time>2008-05-02T11:46:13Z</time>
+    </rtept>
+    <rtept lat="48.6045117303729" lon="8.20070092566311">
+      <name>P211</name>
+      <ele>1156</ele>
+      <time>2008-05-02T11:47:40Z</time>
+    </rtept>
+    <rtept lat="48.6018236540258" lon="8.20037076249719">
+      <name>P212</name>
+      <ele>1155</ele>
+      <time>2008-05-02T11:48:43Z</time>
+    </rtept>
+    <rtept lat="48.6017215624452" lon="8.19963072426617">
+      <name>P213</name>
+      <ele>1147</ele>
+      <time>2008-05-02T11:48:58Z</time>
+    </rtept>
+    <rtept lat="48.5997677408159" lon="8.19865666329861">
+      <name>P214</name>
+      <ele>1115</ele>
+      <time>2008-05-02T11:52:46Z</time>
+    </rtept>
+    <rtept lat="48.5964956972748" lon="8.19535218179226">
+      <name>P215</name>
+      <ele>1074</ele>
+      <time>2008-05-02T11:58:05Z</time>
+    </rtept>
+    <rtept lat="48.5959001630545" lon="8.19923132658005">
+      <name>P216</name>
+      <ele>1047</ele>
+      <time>2008-05-02T11:58:34Z</time>
+    </rtept>
+    <rtept lat="48.5981001611799" lon="8.20781372487545">
+      <name>P217</name>
+      <ele>1027</ele>
+      <time>2008-05-02T12:11:07Z</time>
+    </rtept>
+    <rtept lat="48.5967966914177" lon="8.21719592437148">
+      <name>P218</name>
+      <ele>963</ele>
+      <time>2008-05-02T12:12:02Z</time>
+    </rtept>
+    <rtept lat="48.5961453337222" lon="8.21768165566027">
+      <name>P219</name>
+      <ele>956</ele>
+      <time>2008-05-02T12:12:10Z</time>
+    </rtept>
+    <rtept lat="48.5916448384523" lon="8.21677029132843">
+      <name>P220</name>
+      <ele>971</ele>
+      <time>2008-05-02T12:14:22Z</time>
+    </rtept>
+    <rtept lat="48.5898430645466" lon="8.21717237122357">
+      <name>P221</name>
+      <ele>973</ele>
+      <time>2008-05-02T12:15:02Z</time>
+    </rtept>
+    <rtept lat="48.5852593369782" lon="8.21570687927306">
+      <name>P222</name>
+      <ele>962</ele>
+      <time>2008-05-02T12:16:24Z</time>
+    </rtept>
+    <rtept lat="48.5835450701416" lon="8.22221542708576">
+      <name>P223</name>
+      <ele>988</ele>
+      <time>2008-05-02T12:18:58Z</time>
+    </rtept>
+    <rtept lat="48.5819048993289" lon="8.2241524849087">
+      <name>P224</name>
+      <ele>1002</ele>
+      <time>2008-05-02T12:20:22Z</time>
+    </rtept>
+    <rtept lat="48.5777422785759" lon="8.22160849347711">
+      <name>P225</name>
+      <ele>1034</ele>
+      <time>2008-05-02T12:23:34Z</time>
+    </rtept>
+    <rtept lat="48.5765450913459" lon="8.22188752703369">
+      <name>P226</name>
+      <ele>1042</ele>
+      <time>2008-05-02T12:24:27Z</time>
+    </rtept>
+    <rtept lat="48.5756655782461" lon="8.22986022569239">
+      <name>P227</name>
+      <ele>1022</ele>
+      <time>2008-05-02T12:25:56Z</time>
+    </rtept>
+    <rtept lat="48.5757311247289" lon="8.23333377018571">
+      <name>P228</name>
+      <ele>1005</ele>
+      <time>2008-05-02T12:26:37Z</time>
+    </rtept>
+    <rtept lat="48.5774406976998" lon="8.23285826481879">
+      <name>P229</name>
+      <ele>1023</ele>
+      <time>2008-05-02T12:28:07Z</time>
+    </rtept>
+    <rtept lat="48.5777154564857" lon="8.23354298248887">
+      <name>P230</name>
+      <ele>1026</ele>
+      <time>2008-05-02T12:28:36Z</time>
+    </rtept>
+    <rtept lat="48.5741828195751" lon="8.23617598973215">
+      <name>P231</name>
+      <ele>1019</ele>
+      <time>2008-05-02T12:31:19Z</time>
+    </rtept>
+    <rtept lat="48.5725312493742" lon="8.23584607802331">
+      <name>P232</name>
+      <ele>1031</ele>
+      <time>2008-05-02T12:33:36Z</time>
+    </rtept>
+    <rtept lat="48.5683713946491" lon="8.23607708327472">
+      <name>P233</name>
+      <ele>1030</ele>
+      <time>2008-05-02T12:37:25Z</time>
+    </rtept>
+    <rtept lat="48.5672511532903" lon="8.23459507897496">
+      <name>P234</name>
+      <ele>1030</ele>
+      <time>2008-05-02T12:37:59Z</time>
+    </rtept>
+    <rtept lat="48.5669668391347" lon="8.23076002299786">
+      <name>P235</name>
+      <ele>1027</ele>
+      <time>2008-05-02T12:38:49Z</time>
+    </rtept>
+    <rtept lat="48.5638180933893" lon="8.22798142209649">
+      <name>P236</name>
+      <ele>1002</ele>
+      <time>2008-05-02T12:39:46Z</time>
+    </rtept>
+    <rtept lat="48.5627402644604" lon="8.22913904674351">
+      <name>P237</name>
+      <ele>985</ele>
+      <time>2008-05-02T12:40:05Z</time>
+    </rtept>
+    <rtept lat="48.5629484709352" lon="8.22607319802046">
+      <name>P238</name>
+      <ele>964</ele>
+      <time>2008-05-02T12:40:29Z</time>
+    </rtept>
+    <rtept lat="48.5608934797347" lon="8.2213116902858">
+      <name>P239</name>
+      <ele>912</ele>
+      <time>2008-05-02T12:42:00Z</time>
+    </rtept>
+    <rtept lat="48.5604745522141" lon="8.22126114740968">
+      <name>P240</name>
+      <ele>915</ele>
+      <time>2008-05-02T12:42:19Z</time>
+    </rtept>
+    <rtept lat="48.5595878306776" lon="8.21819957345724">
+      <name>P241</name>
+      <ele>943</ele>
+      <time>2008-05-02T12:46:48Z</time>
+    </rtept>
+    <rtept lat="48.5578401200473" lon="8.2181481923908">
+      <name>P242</name>
+      <ele>956</ele>
+      <time>2008-05-02T12:48:39Z</time>
+    </rtept>
+    <rtept lat="48.5568248201162" lon="8.22009732015431">
+      <name>P243</name>
+      <ele>977</ele>
+      <time>2008-05-02T12:50:50Z</time>
+    </rtept>
+    <rtept lat="48.5563755501062" lon="8.21813872084022">
+      <name>P244</name>
+      <ele>991</ele>
+      <time>2008-05-02T12:53:28Z</time>
+    </rtept>
+    <rtept lat="48.5527140833437" lon="8.21417424827814">
+      <name>P245</name>
+      <ele>1024</ele>
+      <time>2008-05-02T12:57:44Z</time>
+    </rtept>
+    <rtept lat="48.5467930231243" lon="8.21700498461723">
+      <name>P246</name>
+      <ele>1013</ele>
+      <time>2008-05-02T13:01:49Z</time>
+    </rtept>
+    <rtept lat="48.5430061630905" lon="8.21571609936655">
+      <name>P247</name>
+      <ele>1006</ele>
+      <time>2008-05-02T13:03:27Z</time>
+    </rtept>
+    <rtept lat="48.5377014242113" lon="8.22036151774228">
+      <name>P248</name>
+      <ele>1049</ele>
+      <time>2008-05-02T13:08:45Z</time>
+    </rtept>
+    <rtept lat="48.5331878531724" lon="8.21550403721631">
+      <name>P249</name>
+      <ele>1046</ele>
+      <time>2008-05-02T13:11:37Z</time>
+    </rtept>
+    <rtept lat="48.5292836464942" lon="8.21344912983477">
+      <name>P250</name>
+      <ele>1006</ele>
+      <time>2008-05-02T13:12:34Z</time>
+    </rtept>
+    <rtept lat="48.5287190414965" lon="8.21438983082771">
+      <name>P251</name>
+      <ele>1000</ele>
+      <time>2008-05-02T13:12:56Z</time>
+    </rtept>
+    <rtept lat="48.5241739545017" lon="8.21397216059268">
+      <name>P252</name>
+      <ele>962</ele>
+      <time>2008-05-02T13:14:14Z</time>
+    </rtept>
+    <rtept lat="48.5222966596484" lon="8.21023173630238">
+      <name>P253</name>
+      <ele>956</ele>
+      <time>2008-05-02T13:15:05Z</time>
+    </rtept>
+    <rtept lat="48.5188777651638" lon="8.21417944505811">
+      <name>P254</name>
+      <ele>929</ele>
+      <time>2008-05-02T13:16:11Z</time>
+    </rtept>
+    <rtept lat="48.5182579234242" lon="8.21715828962624">
+      <name>P255</name>
+      <ele>921</ele>
+      <time>2008-05-02T13:16:28Z</time>
+    </rtept>
+    <rtept lat="48.5172095987946" lon="8.21931252256036">
+      <name>P256</name>
+      <ele>908</ele>
+      <time>2008-05-02T13:16:44Z</time>
+    </rtept>
+    <rtept lat="48.5138123296201" lon="8.21868605911732">
+      <name>P257</name>
+      <ele>885</ele>
+      <time>2008-05-02T13:17:16Z</time>
+    </rtept>
+    <rtept lat="48.5114171169698" lon="8.21516507305205">
+      <name>P258</name>
+      <ele>894</ele>
+      <time>2008-05-02T13:18:29Z</time>
+    </rtept>
+    <rtept lat="48.509673429653" lon="8.21575842797756">
+      <name>P259</name>
+      <ele>900</ele>
+      <time>2008-05-02T13:19:38Z</time>
+    </rtept>
+    <rtept lat="48.5054212901741" lon="8.21950128301978">
+      <name>P260</name>
+      <ele>921</ele>
+      <time>2008-05-02T13:22:51Z</time>
+    </rtept>
+    <rtept lat="48.5028791427612" lon="8.2202809676528">
+      <name>P261</name>
+      <ele>922</ele>
+      <time>2008-05-02T13:23:58Z</time>
+    </rtept>
+    <rtept lat="48.5022730473429" lon="8.22241541929543">
+      <name>P262</name>
+      <ele>921</ele>
+      <time>2008-05-02T13:24:27Z</time>
+    </rtept>
+    <rtept lat="48.5001694411039" lon="8.22644996456802">
+      <name>P263</name>
+      <ele>916</ele>
+      <time>2008-05-02T13:25:28Z</time>
+    </rtept>
+    <rtept lat="48.4962217323482" lon="8.22851736098528">
+      <name>P264</name>
+      <ele>933</ele>
+      <time>2008-05-02T13:29:00Z</time>
+    </rtept>
+    <rtept lat="48.4978351648897" lon="8.23207757435739">
+      <name>P265</name>
+      <ele>926</ele>
+      <time>2008-05-02T13:30:02Z</time>
+    </rtept>
+    <rtept lat="48.4968322701752" lon="8.23771976865828">
+      <name>P266</name>
+      <ele>924</ele>
+      <time>2008-05-02T13:31:05Z</time>
+    </rtept>
+    <rtept lat="48.4933235216886" lon="8.24021933600307">
+      <name>P267</name>
+      <ele>968</ele>
+      <time>2008-05-02T13:37:15Z</time>
+    </rtept>
+    <rtept lat="48.4927077870816" lon="8.24396344833076">
+      <name>P268</name>
+      <ele>959</ele>
+      <time>2008-05-02T13:38:56Z</time>
+    </rtept>
+    <rtept lat="48.4931522794068" lon="8.24503029696643">
+      <name>P269</name>
+      <ele>959</ele>
+      <time>2008-05-02T13:39:17Z</time>
+    </rtept>
+    <rtept lat="48.4925101418048" lon="8.25200957246125">
+      <name>P270</name>
+      <ele>952</ele>
+      <time>2008-05-02T13:40:58Z</time>
+    </rtept>
+    <rtept lat="48.4936028905213" lon="8.2533160597086">
+      <name>P271</name>
+      <ele>949</ele>
+      <time>2008-05-02T13:41:25Z</time>
+    </rtept>
+    <rtept lat="48.4938698541373" lon="8.25431727804244">
+      <name>P272</name>
+      <ele>948</ele>
+      <time>2008-05-02T13:41:42Z</time>
+    </rtept>
+    <rtept lat="48.4935746435076" lon="8.25662104412913">
+      <name>P273</name>
+      <ele>945</ele>
+      <time>2008-05-02T13:42:10Z</time>
+    </rtept>
+    <rtept lat="48.492592619732" lon="8.2596084382385">
+      <name>P274</name>
+      <ele>940</ele>
+      <time>2008-05-02T13:42:49Z</time>
+    </rtept>
+    <rtept lat="48.4911844599992" lon="8.26089506037533">
+      <name>P275</name>
+      <ele>941</ele>
+      <time>2008-05-02T13:43:26Z</time>
+    </rtept>
+    <rtept lat="48.4908261336386" lon="8.2665300462395">
+      <name>P276</name>
+      <ele>936</ele>
+      <time>2008-05-02T13:44:53Z</time>
+    </rtept>
+    <rtept lat="48.4871361684054" lon="8.26970024965703">
+      <name>P277</name>
+      <ele>951</ele>
+      <time>2008-05-02T13:47:42Z</time>
+    </rtept>
+    <rtept lat="48.4864480979741" lon="8.2714806497097">
+      <name>P278</name>
+      <ele>950</ele>
+      <time>2008-05-02T13:48:26Z</time>
+    </rtept>
+    <rtept lat="48.4816812258214" lon="8.27321922406554">
+      <name>P279</name>
+      <ele>962</ele>
+      <time>2008-05-02T13:51:58Z</time>
+    </rtept>
+    <rtept lat="48.4795035235584" lon="8.27461732551456">
+      <name>P280</name>
+      <ele>974</ele>
+      <time>2008-05-02T13:53:34Z</time>
+    </rtept>
+    <rtept lat="48.4793373942375" lon="8.27514831908047">
+      <name>P281</name>
+      <ele>976</ele>
+      <time>2008-05-02T13:54:15Z</time>
+    </rtept>
+    <rtept lat="48.4774215426296" lon="8.27626688405871">
+      <name>P282</name>
+      <ele>955</ele>
+      <time>2008-05-02T13:56:39Z</time>
+    </rtept>
+    <rtept lat="48.4744727890939" lon="8.27348249964416">
+      <name>P283</name>
+      <ele>950</ele>
+      <time>2008-05-02T13:58:39Z</time>
+    </rtept>
+    <rtept lat="48.4754813835025" lon="8.26886935159564">
+      <name>P284</name>
+      <ele>958</ele>
+      <time>2008-05-02T14:00:04Z</time>
+    </rtept>
+    <rtept lat="48.4736858960241" lon="8.2671080622822">
+      <name>P285</name>
+      <ele>968</ele>
+      <time>2008-05-02T14:01:08Z</time>
+    </rtept>
+    <rtept lat="48.4730145893991" lon="8.26567358337343">
+      <name>P286</name>
+      <ele>964</ele>
+      <time>2008-05-02T14:01:33Z</time>
+    </rtept>
+    <rtept lat="48.4719027299434" lon="8.26457723043859">
+      <name>P287</name>
+      <ele>951</ele>
+      <time>2008-05-02T14:01:46Z</time>
+    </rtept>
+    <rtept lat="48.4712728299201" lon="8.26472969725728">
+      <name>P288</name>
+      <ele>947</ele>
+      <time>2008-05-02T14:01:53Z</time>
+    </rtept>
+    <rtept lat="48.4703837614506" lon="8.26612696051598">
+      <name>P289</name>
+      <ele>940</ele>
+      <time>2008-05-02T14:02:05Z</time>
+    </rtept>
+    <rtept lat="48.4653485845774" lon="8.26493865810335">
+      <name>P290</name>
+      <ele>913</ele>
+      <time>2008-05-02T14:02:49Z</time>
+    </rtept>
+    <rtept lat="48.4630340896547" lon="8.26181145384908">
+      <name>P291</name>
+      <ele>907</ele>
+      <time>2008-05-02T14:03:22Z</time>
+    </rtept>
+    <rtept lat="48.4592364169657" lon="8.26307368464768">
+      <name>P292</name>
+      <ele>898</ele>
+      <time>2008-05-02T14:03:59Z</time>
+    </rtept>
+    <rtept lat="48.4569126181304" lon="8.26110418885946">
+      <name>P293</name>
+      <ele>918</ele>
+      <time>2008-05-02T14:05:24Z</time>
+    </rtept>
+    <rtept lat="48.4545686189085" lon="8.26440992765129">
+      <name>P294</name>
+      <ele>913</ele>
+      <time>2008-05-02T14:07:42Z</time>
+    </rtept>
+    <rtept lat="48.4515837393701" lon="8.26648587360978">
+      <name>P295</name>
+      <ele>905</ele>
+      <time>2008-05-02T14:08:30Z</time>
+    </rtept>
+    <rtept lat="48.4518805425614" lon="8.26716262847185">
+      <name>P296</name>
+      <ele>908</ele>
+      <time>2008-05-02T14:08:57Z</time>
+    </rtept>
+    <rtept lat="48.4488698467612" lon="8.2688922341913">
+      <name>P297</name>
+      <ele>919</ele>
+      <time>2008-05-02T14:10:47Z</time>
+    </rtept>
+    <rtept lat="48.4468566812575" lon="8.26827742159367">
+      <name>P298</name>
+      <ele>912</ele>
+      <time>2008-05-02T14:11:24Z</time>
+    </rtept>
+    <rtept lat="48.4432102181017" lon="8.26502792537212">
+      <name>P299</name>
+      <ele>899</ele>
+      <time>2008-05-02T14:12:33Z</time>
+    </rtept>
+    <rtept lat="48.4366188570857" lon="8.26463213190436">
+      <name>P300</name>
+      <ele>936</ele>
+      <time>2008-05-02T14:18:12Z</time>
+    </rtept>
+    <rtept lat="48.4343039430678" lon="8.26287042349577">
+      <name>P301</name>
+      <ele>946</ele>
+      <time>2008-05-02T14:20:39Z</time>
+    </rtept>
+    <rtept lat="48.4335402678698" lon="8.26146586798131">
+      <name>P302</name>
+      <ele>961</ele>
+      <time>2008-05-02T14:29:11Z</time>
+    </rtept>
+    <rtept lat="48.434209479019" lon="8.25626724399626">
+      <name>P303</name>
+      <ele>969</ele>
+      <time>2008-05-02T14:44:35Z</time>
+    </rtept>
+    <rtept lat="48.4334867913276" lon="8.25419439934194">
+      <name>P304</name>
+      <ele>964</ele>
+      <time>2008-05-02T14:45:17Z</time>
+    </rtept>
+    <rtept lat="48.4288851264864" lon="8.25414888560772">
+      <name>P305</name>
+      <ele>940</ele>
+      <time>2008-05-02T14:47:12Z</time>
+    </rtept>
+    <rtept lat="48.4257112350315" lon="8.2554779201746">
+      <name>P306</name>
+      <ele>961</ele>
+      <time>2008-05-02T14:51:35Z</time>
+    </rtept>
+    <rtept lat="48.4257265739143" lon="8.25724457390606">
+      <name>P307</name>
+      <ele>960</ele>
+      <time>2008-05-02T14:52:25Z</time>
+    </rtept>
+    <rtept lat="48.4186274372041" lon="8.25456303544343">
+      <name>P308</name>
+      <ele>882</ele>
+      <time>2008-05-02T14:54:58Z</time>
+    </rtept>
+    <rtept lat="48.4150239732116" lon="8.25164026580751">
+      <name>P309</name>
+      <ele>803</ele>
+      <time>2008-05-02T14:55:32Z</time>
+    </rtept>
+    <rtept lat="48.4144030418247" lon="8.25021668337286">
+      <name>P310</name>
+      <ele>787</ele>
+      <time>2008-05-02T14:55:43Z</time>
+    </rtept>
+    <rtept lat="48.4144520759583" lon="8.24738435447216">
+      <name>P311</name>
+      <ele>762</ele>
+      <time>2008-05-02T14:56:00Z</time>
+    </rtept>
+    <rtept lat="48.4114742372185" lon="8.24117026291788">
+      <name>P312</name>
+      <ele>757</ele>
+      <time>2008-05-02T14:58:19Z</time>
+    </rtept>
+    <rtept lat="48.4099765587598" lon="8.24122382327914">
+      <name>P313</name>
+      <ele>763</ele>
+      <time>2008-05-02T14:59:10Z</time>
+    </rtept>
+    <rtept lat="48.4075736347586" lon="8.23950117453933">
+      <name>P314</name>
+      <ele>780</ele>
+      <time>2008-05-02T15:00:57Z</time>
+    </rtept>
+    <rtept lat="48.4075543563813" lon="8.23809267953038">
+      <name>P315</name>
+      <ele>784</ele>
+      <time>2008-05-02T15:01:33Z</time>
+    </rtept>
+    <rtept lat="48.4052840340883" lon="8.23188973590732">
+      <name>P316</name>
+      <ele>808</ele>
+      <time>2008-05-02T15:04:25Z</time>
+    </rtept>
+    <rtept lat="48.4035856928676" lon="8.23103109374642">
+      <name>P317</name>
+      <ele>820</ele>
+      <time>2008-05-02T15:05:36Z</time>
+    </rtept>
+    <rtept lat="48.4014814998955" lon="8.22862825356424">
+      <name>P318</name>
+      <ele>830</ele>
+      <time>2008-05-02T15:06:49Z</time>
+    </rtept>
+    <rtept lat="48.4013448748738" lon="8.2255494967103">
+      <name>P319</name>
+      <ele>833</ele>
+      <time>2008-05-02T15:07:41Z</time>
+    </rtept>
+    <rtept lat="48.3983491826802" lon="8.2203121483326">
+      <name>P320</name>
+      <ele>778</ele>
+      <time>2008-05-02T15:09:11Z</time>
+    </rtept>
+    <rtept lat="48.3977180253714" lon="8.21810988709331">
+      <name>P321</name>
+      <ele>755</ele>
+      <time>2008-05-02T15:11:30Z</time>
+    </rtept>
+    <rtept lat="48.3944359235466" lon="8.21400786750019">
+      <name>P322</name>
+      <ele>776</ele>
+      <time>2008-05-02T15:16:42Z</time>
+    </rtept>
+    <rtept lat="48.3915964700282" lon="8.21237079799175">
+      <name>P323</name>
+      <ele>784</ele>
+      <time>2008-05-02T15:19:03Z</time>
+    </rtept>
+    <rtept lat="48.3863398432732" lon="8.2044991850853">
+      <name>P324</name>
+      <ele>797</ele>
+      <time>2008-05-02T15:22:50Z</time>
+    </rtept>
+    <rtept lat="48.3855948597193" lon="8.20338606834412">
+      <name>P325</name>
+      <ele>793</ele>
+      <time>2008-05-02T15:23:03Z</time>
+    </rtept>
+    <rtept lat="48.3846684917808" lon="8.20051308721304">
+      <name>P326</name>
+      <ele>778</ele>
+      <time>2008-05-02T15:23:53Z</time>
+    </rtept>
+    <rtept lat="48.3827743493021" lon="8.19870435632765">
+      <name>P327</name>
+      <ele>759</ele>
+      <time>2008-05-02T15:24:32Z</time>
+    </rtept>
+    <rtept lat="48.3805424999446" lon="8.19312075152993">
+      <name>P328</name>
+      <ele>717</ele>
+      <time>2008-05-02T15:25:46Z</time>
+    </rtept>
+    <rtept lat="48.3784544840455" lon="8.18955525755882">
+      <name>P329</name>
+      <ele>716</ele>
+      <time>2008-05-02T15:26:56Z</time>
+    </rtept>
+    <rtept lat="48.376426063478" lon="8.18734344094992">
+      <name>P330</name>
+      <ele>713</ele>
+      <time>2008-05-02T15:27:43Z</time>
+    </rtept>
+    <rtept lat="48.3732534293085" lon="8.18533463403583">
+      <name>P331</name>
+      <ele>711</ele>
+      <time>2008-05-02T15:29:09Z</time>
+    </rtept>
+    <rtept lat="48.364163255319" lon="8.184914868325">
+      <name>P332</name>
+      <ele>777</ele>
+      <time>2008-05-02T15:38:21Z</time>
+    </rtept>
+    <rtept lat="48.3609000965953" lon="8.17633054219186">
+      <name>P333</name>
+      <ele>754</ele>
+      <time>2008-05-02T15:39:45Z</time>
+    </rtept>
+    <rtept lat="48.358042454347" lon="8.17348027601838">
+      <name>P334</name>
+      <ele>740</ele>
+      <time>2008-05-02T15:40:22Z</time>
+    </rtept>
+    <rtept lat="48.3564628846943" lon="8.17361706867814">
+      <name>P335</name>
+      <ele>743</ele>
+      <time>2008-05-02T15:40:48Z</time>
+    </rtept>
+    <rtept lat="48.3538824319839" lon="8.17287501879036">
+      <name>P336</name>
+      <ele>770</ele>
+      <time>2008-05-02T15:43:53Z</time>
+    </rtept>
+    <rtept lat="48.3485963847488" lon="8.17521977238357">
+      <name>P337</name>
+      <ele>784</ele>
+      <time>2008-05-02T15:47:43Z</time>
+    </rtept>
+    <rtept lat="48.3459388185292" lon="8.17426121793687">
+      <name>P338</name>
+      <ele>764</ele>
+      <time>2008-05-02T15:50:00Z</time>
+    </rtept>
+    <rtept lat="48.3426565490663" lon="8.17493319511414">
+      <name>P339</name>
+      <ele>721</ele>
+      <time>2008-05-02T15:51:09Z</time>
+    </rtept>
+    <rtept lat="48.3416781295091" lon="8.17774096503854">
+      <name>P340</name>
+      <ele>725</ele>
+      <time>2008-05-02T15:52:12Z</time>
+    </rtept>
+    <rtept lat="48.3360664453357" lon="8.18039123900235">
+      <name>P341</name>
+      <ele>681</ele>
+      <time>2008-05-02T15:55:14Z</time>
+    </rtept>
+    <rtept lat="48.3349738642573" lon="8.18185966461897">
+      <name>P342</name>
+      <ele>684</ele>
+      <time>2008-05-02T15:55:55Z</time>
+    </rtept>
+    <rtept lat="48.3344634901732" lon="8.18413878791034">
+      <name>P343</name>
+      <ele>689</ele>
+      <time>2008-05-02T15:56:44Z</time>
+    </rtept>
+    <rtept lat="48.3328421786428" lon="8.18629939109087">
+      <name>P344</name>
+      <ele>669</ele>
+      <time>2008-05-02T16:00:14Z</time>
+    </rtept>
+    <rtept lat="48.3309677336365" lon="8.18691638298333">
+      <name>P345</name>
+      <ele>650</ele>
+      <time>2008-05-02T16:00:44Z</time>
+    </rtept>
+    <rtept lat="48.3238781522959" lon="8.19158837199211">
+      <name>P346</name>
+      <ele>650</ele>
+      <time>2008-05-02T16:08:14Z</time>
+    </rtept>
+    <rtept lat="48.3216267731041" lon="8.18991324864328">
+      <name>P347</name>
+      <ele>620</ele>
+      <time>2008-05-02T16:09:11Z</time>
+    </rtept>
+    <rtept lat="48.3179676532745" lon="8.18893617019057">
+      <name>P348</name>
+      <ele>639</ele>
+      <time>2008-05-02T16:10:52Z</time>
+    </rtept>
+    <rtept lat="48.310124957934" lon="8.19306844845414">
+      <name>P349</name>
+      <ele>659</ele>
+      <time>2008-05-02T16:19:32Z</time>
+    </rtept>
+    <rtept lat="48.3087360765785" lon="8.19399875588715">
+      <name>P350</name>
+      <ele>642</ele>
+      <time>2008-05-02T16:20:03Z</time>
+    </rtept>
+    <rtept lat="48.3080750796944" lon="8.19559525698423">
+      <name>P351</name>
+      <ele>611</ele>
+      <time>2008-05-02T16:26:05Z</time>
+    </rtept>
+    <rtept lat="48.3076647855341" lon="8.19564579986036">
+      <name>P352</name>
+      <ele>602</ele>
+      <time>2008-05-02T16:26:21Z</time>
+    </rtept>
+    <rtept lat="48.3071581833065" lon="8.19457626901567">
+      <name>P353</name>
+      <ele>582</ele>
+      <time>2008-05-02T16:26:47Z</time>
+    </rtept>
+    <rtept lat="48.3040579687804" lon="8.19332242012024">
+      <name>P354</name>
+      <ele>518</ele>
+      <time>2008-05-02T16:28:02Z</time>
+    </rtept>
+    <rtept lat="48.3040074259043" lon="8.1923798751086">
+      <name>P355</name>
+      <ele>503</ele>
+      <time>2008-05-02T16:28:18Z</time>
+    </rtept>
+    <rtept lat="48.3022477291524" lon="8.19086358882487">
+      <name>P356</name>
+      <ele>511</ele>
+      <time>2008-05-02T16:29:46Z</time>
+    </rtept>
+    <rtept lat="48.3019299712032" lon="8.19121705368161">
+      <name>P357</name>
+      <ele>509</ele>
+      <time>2008-05-02T16:30:08Z</time>
+    </rtept>
+    <rtept lat="48.3029868453741" lon="8.19752695038915">
+      <name>P358</name>
+      <ele>501</ele>
+      <time>2008-05-02T16:32:10Z</time>
+    </rtept>
+    <rtept lat="48.3008490409702" lon="8.20018652826548">
+      <name>P359</name>
+      <ele>482</ele>
+      <time>2008-05-02T16:33:10Z</time>
+    </rtept>
+    <rtept lat="48.2966051995754" lon="8.20449658669531">
+      <name>P360</name>
+      <ele>540</ele>
+      <time>2008-05-02T16:40:37Z</time>
+    </rtept>
+    <rtept lat="48.2949827983975" lon="8.20284375920892">
+      <name>P361</name>
+      <ele>556</ele>
+      <time>2008-05-02T16:43:21Z</time>
+    </rtept>
+    <rtept lat="48.2932659331709" lon="8.20229826495051">
+      <name>P362</name>
+      <ele>565</ele>
+      <time>2008-05-02T16:44:37Z</time>
+    </rtept>
+    <rtept lat="48.2920706737787" lon="8.20268894545734">
+      <name>P363</name>
+      <ele>552</ele>
+      <time>2008-05-02T16:58:23Z</time>
+    </rtept>
+    <rtept lat="48.2899660617113" lon="8.20180758833885">
+      <name>P364</name>
+      <ele>491</ele>
+      <time>2008-05-02T16:59:18Z</time>
+    </rtept>
+    <rtept lat="48.2883563172072" lon="8.20010346360505">
+      <name>P365</name>
+      <ele>432</ele>
+      <time>2008-05-02T17:01:17Z</time>
+    </rtept>
+    <rtept lat="48.2881688978523" lon="8.20354272611439">
+      <name>P366</name>
+      <ele>364</ele>
+      <time>2008-05-02T17:02:59Z</time>
+    </rtept>
+    <rtept lat="48.2865424733609" lon="8.20447864942253">
+      <name>P367</name>
+      <ele>333</ele>
+      <time>2008-05-02T17:04:30Z</time>
+    </rtept>
+    <rtept lat="48.2868589740247" lon="8.2039740588516">
+      <name>P368</name>
+      <ele>328</ele>
+      <time>2008-05-02T17:04:40Z</time>
+    </rtept>
+    <rtept lat="48.2849866244942" lon="8.20122169330716">
+      <name>P369</name>
+      <ele>270</ele>
+      <time>2008-05-02T17:06:35Z</time>
+    </rtept>
+    <rtept lat="48.285218551755" lon="8.19018364883959">
+      <name>P370</name>
+      <ele>253</ele>
+      <time>2008-05-02T17:10:08Z</time>
+    </rtept>
+    <rtept lat="48.285201" lon="8.181865">
+      <name>P371</name>
+      <ele>238</ele>
+      <time>2008-05-10T07:27:01Z</time>
+    </rtept>
+    <rtept lat="48.285934" lon="8.177126">
+      <name>P372</name>
+      <ele>235</ele>
+      <time>2008-05-10T07:28:12Z</time>
+    </rtept>
+    <rtept lat="48.28494" lon="8.16745">
+      <name>P373</name>
+      <ele>234</ele>
+      <time>2008-05-10T07:30:32Z</time>
+    </rtept>
+    <rtept lat="48.283586" lon="8.166971">
+      <name>P374</name>
+      <ele>267</ele>
+      <time>2008-05-10T07:33:57Z</time>
+    </rtept>
+    <rtept lat="48.282543" lon="8.168097">
+      <name>P375</name>
+      <ele>296</ele>
+      <time>2008-05-10T07:36:59Z</time>
+    </rtept>
+    <rtept lat="48.281651" lon="8.16774">
+      <name>P376</name>
+      <ele>326</ele>
+      <time>2008-05-10T07:40:19Z</time>
+    </rtept>
+    <rtept lat="48.281272" lon="8.16639">
+      <name>P377</name>
+      <ele>334</ele>
+      <time>2008-05-10T07:41:01Z</time>
+    </rtept>
+    <rtept lat="48.279036" lon="8.1676">
+      <name>P378</name>
+      <ele>351</ele>
+      <time>2008-05-10T07:42:38Z</time>
+    </rtept>
+    <rtept lat="48.278923" lon="8.168786">
+      <name>P379</name>
+      <ele>365</ele>
+      <time>2008-05-10T07:43:37Z</time>
+    </rtept>
+    <rtept lat="48.275919" lon="8.168799">
+      <name>P380</name>
+      <ele>418</ele>
+      <time>2008-05-10T07:47:38Z</time>
+    </rtept>
+    <rtept lat="48.268518" lon="8.165966">
+      <name>P381</name>
+      <ele>464</ele>
+      <time>2008-05-10T07:55:01Z</time>
+    </rtept>
+    <rtept lat="48.264346" lon="8.177908">
+      <name>P382</name>
+      <ele>609</ele>
+      <time>2008-05-10T08:08:58Z</time>
+    </rtept>
+    <rtept lat="48.263195" lon="8.178813">
+      <name>P383</name>
+      <ele>627</ele>
+      <time>2008-05-10T08:10:48Z</time>
+    </rtept>
+    <rtept lat="48.259762" lon="8.178666">
+      <name>P384</name>
+      <ele>691</ele>
+      <time>2008-05-10T08:17:05Z</time>
+    </rtept>
+    <rtept lat="48.258235" lon="8.181155">
+      <name>P385</name>
+      <ele>746</ele>
+      <time>2008-05-10T08:24:41Z</time>
+    </rtept>
+    <rtept lat="48.256897" lon="8.181183">
+      <name>P386</name>
+      <ele>787</ele>
+      <time>2008-05-10T08:28:25Z</time>
+    </rtept>
+    <rtept lat="48.253607" lon="8.17885">
+      <name>P387</name>
+      <ele>730</ele>
+      <time>2008-05-10T08:33:48Z</time>
+    </rtept>
+    <rtept lat="48.251131" lon="8.173931">
+      <name>P388</name>
+      <ele>701</ele>
+      <time>2008-05-10T08:35:59Z</time>
+    </rtept>
+    <rtept lat="48.250032" lon="8.173886">
+      <name>P389</name>
+      <ele>688</ele>
+      <time>2008-05-10T08:36:33Z</time>
+    </rtept>
+    <rtept lat="48.247957" lon="8.175133">
+      <name>P390</name>
+      <ele>654</ele>
+      <time>2008-05-10T08:41:37Z</time>
+    </rtept>
+    <rtept lat="48.246613" lon="8.174011">
+      <name>P391</name>
+      <ele>623</ele>
+      <time>2008-05-10T08:42:08Z</time>
+    </rtept>
+    <rtept lat="48.241354" lon="8.175254">
+      <name>P392</name>
+      <ele>643</ele>
+      <time>2008-05-10T08:44:48Z</time>
+    </rtept>
+    <rtept lat="48.240009" lon="8.177632">
+      <name>P393</name>
+      <ele>659</ele>
+      <time>2008-05-10T08:46:54Z</time>
+    </rtept>
+    <rtept lat="48.237338" lon="8.17625">
+      <name>P394</name>
+      <ele>662</ele>
+      <time>2008-05-10T08:49:47Z</time>
+    </rtept>
+    <rtept lat="48.234797" lon="8.175985">
+      <name>P395</name>
+      <ele>715</ele>
+      <time>2008-05-10T08:54:23Z</time>
+    </rtept>
+    <rtept lat="48.232215" lon="8.176579">
+      <name>P396</name>
+      <ele>765</ele>
+      <time>2008-05-10T08:58:43Z</time>
+    </rtept>
+    <rtept lat="48.231339" lon="8.174921">
+      <name>P397</name>
+      <ele>774</ele>
+      <time>2008-05-10T09:00:04Z</time>
+    </rtept>
+    <rtept lat="48.227972" lon="8.17482">
+      <name>P398</name>
+      <ele>794</ele>
+      <time>2008-05-10T09:03:25Z</time>
+    </rtept>
+    <rtept lat="48.226271" lon="8.173449">
+      <name>P399</name>
+      <ele>807</ele>
+      <time>2008-05-10T09:06:05Z</time>
+    </rtept>
+    <rtept lat="48.22234" lon="8.168785">
+      <name>P400</name>
+      <ele>798</ele>
+      <time>2008-05-10T09:08:39Z</time>
+    </rtept>
+    <rtept lat="48.222219" lon="8.167089">
+      <name>P401</name>
+      <ele>810</ele>
+      <time>2008-05-10T09:10:02Z</time>
+    </rtept>
+    <rtept lat="48.220042" lon="8.166617">
+      <name>P402</name>
+      <ele>841</ele>
+      <time>2008-05-10T09:13:07Z</time>
+    </rtept>
+    <rtept lat="48.215652" lon="8.170523">
+      <name>P403</name>
+      <ele>770</ele>
+      <time>2008-05-10T09:20:20Z</time>
+    </rtept>
+    <rtept lat="48.210998" lon="8.171999">
+      <name>P404</name>
+      <ele>744</ele>
+      <time>2008-05-10T09:21:48Z</time>
+    </rtept>
+    <rtept lat="48.210446" lon="8.17177">
+      <name>P405</name>
+      <ele>759</ele>
+      <time>2008-05-10T09:23:13Z</time>
+    </rtept>
+    <rtept lat="48.210305" lon="8.172618">
+      <name>P406</name>
+      <ele>746</ele>
+      <time>2008-05-10T09:27:32Z</time>
+    </rtept>
+    <rtept lat="48.207531" lon="8.174868">
+      <name>P407</name>
+      <ele>747</ele>
+      <time>2008-05-10T09:29:14Z</time>
+    </rtept>
+    <rtept lat="48.207785" lon="8.177119">
+      <name>P408</name>
+      <ele>749</ele>
+      <time>2008-05-10T09:30:37Z</time>
+    </rtept>
+    <rtept lat="48.20726" lon="8.180389">
+      <name>P409</name>
+      <ele>807</ele>
+      <time>2008-05-10T09:36:08Z</time>
+    </rtept>
+    <rtept lat="48.20355" lon="8.184403">
+      <name>P410</name>
+      <ele>866</ele>
+      <time>2008-05-10T10:42:57Z</time>
+    </rtept>
+    <rtept lat="48.20015" lon="8.186303">
+      <name>P411</name>
+      <ele>908</ele>
+      <time>2008-05-10T10:46:30Z</time>
+    </rtept>
+    <rtept lat="48.19929" lon="8.185885">
+      <name>P412</name>
+      <ele>925</ele>
+      <time>2008-05-10T10:48:12Z</time>
+    </rtept>
+    <rtept lat="48.197996" lon="8.184036">
+      <name>P413</name>
+      <ele>954</ele>
+      <time>2008-05-10T10:51:25Z</time>
+    </rtept>
+    <rtept lat="48.197442" lon="8.184705">
+      <name>P414</name>
+      <ele>958</ele>
+      <time>2008-05-10T10:51:58Z</time>
+    </rtept>
+    <rtept lat="48.194102" lon="8.183224">
+      <name>P415</name>
+      <ele>925</ele>
+      <time>2008-05-10T10:55:47Z</time>
+    </rtept>
+    <rtept lat="48.193615" lon="8.183994">
+      <name>P416</name>
+      <ele>919</ele>
+      <time>2008-05-10T10:56:34Z</time>
+    </rtept>
+    <rtept lat="48.191657" lon="8.181086">
+      <name>P417</name>
+      <ele>925</ele>
+      <time>2008-05-10T11:05:25Z</time>
+    </rtept>
+    <rtept lat="48.19049" lon="8.180755">
+      <name>P418</name>
+      <ele>933</ele>
+      <time>2008-05-10T11:06:23Z</time>
+    </rtept>
+    <rtept lat="48.189728" lon="8.179825">
+      <name>P419</name>
+      <ele>933</ele>
+      <time>2008-05-10T11:06:50Z</time>
+    </rtept>
+    <rtept lat="48.185026" lon="8.181573">
+      <name>P420</name>
+      <ele>951</ele>
+      <time>2008-05-10T11:09:34Z</time>
+    </rtept>
+    <rtept lat="48.180809" lon="8.17951">
+      <name>P421</name>
+      <ele>931</ele>
+      <time>2008-05-10T11:11:19Z</time>
+    </rtept>
+    <rtept lat="48.17959" lon="8.17947">
+      <name>P422</name>
+      <ele>927</ele>
+      <time>2008-05-10T11:11:31Z</time>
+    </rtept>
+    <rtept lat="48.17777" lon="8.181063">
+      <name>P423</name>
+      <ele>930</ele>
+      <time>2008-05-10T11:12:49Z</time>
+    </rtept>
+    <rtept lat="48.176946" lon="8.180752">
+      <name>P424</name>
+      <ele>929</ele>
+      <time>2008-05-10T11:13:11Z</time>
+    </rtept>
+    <rtept lat="48.175371" lon="8.181197">
+      <name>P425</name>
+      <ele>931</ele>
+      <time>2008-05-10T11:13:59Z</time>
+    </rtept>
+    <rtept lat="48.172828" lon="8.180609">
+      <name>P426</name>
+      <ele>920</ele>
+      <time>2008-05-10T11:15:08Z</time>
+    </rtept>
+    <rtept lat="48.169903" lon="8.182305">
+      <name>P427</name>
+      <ele>934</ele>
+      <time>2008-05-10T11:16:43Z</time>
+    </rtept>
+    <rtept lat="48.165738" lon="8.177377">
+      <name>P428</name>
+      <ele>966</ele>
+      <time>2008-05-10T11:20:49Z</time>
+    </rtept>
+    <rtept lat="48.16296" lon="8.176818">
+      <name>P429</name>
+      <ele>974</ele>
+      <time>2008-05-10T11:22:12Z</time>
+    </rtept>
+    <rtept lat="48.161821" lon="8.175819">
+      <name>P430</name>
+      <ele>968</ele>
+      <time>2008-05-10T11:22:30Z</time>
+    </rtept>
+    <rtept lat="48.159562" lon="8.17682">
+      <name>P431</name>
+      <ele>959</ele>
+      <time>2008-05-10T11:22:54Z</time>
+    </rtept>
+    <rtept lat="48.156007" lon="8.175856">
+      <name>P432</name>
+      <ele>993</ele>
+      <time>2008-05-10T11:25:10Z</time>
+    </rtept>
+    <rtept lat="48.153212" lon="8.17576">
+      <name>P433</name>
+      <ele>984</ele>
+      <time>2008-05-10T11:26:06Z</time>
+    </rtept>
+    <rtept lat="48.152197" lon="8.17422">
+      <name>P434</name>
+      <ele>987</ele>
+      <time>2008-05-10T11:26:43Z</time>
+    </rtept>
+    <rtept lat="48.148623" lon="8.172619">
+      <name>P435</name>
+      <ele>985</ele>
+      <time>2008-05-10T11:27:57Z</time>
+    </rtept>
+    <rtept lat="48.147844" lon="8.173484">
+      <name>P436</name>
+      <ele>984</ele>
+      <time>2008-05-10T11:28:14Z</time>
+    </rtept>
+    <rtept lat="48.14298" lon="8.173652">
+      <name>P437</name>
+      <ele>989</ele>
+      <time>2008-05-10T11:31:27Z</time>
+    </rtept>
+    <rtept lat="48.140573" lon="8.172622">
+      <name>P438</name>
+      <ele>1008</ele>
+      <time>2008-05-10T11:33:23Z</time>
+    </rtept>
+    <rtept lat="48.139367" lon="8.171267">
+      <name>P439</name>
+      <ele>1005</ele>
+      <time>2008-05-10T11:33:52Z</time>
+    </rtept>
+    <rtept lat="48.136234" lon="8.172839">
+      <name>P440</name>
+      <ele>1001</ele>
+      <time>2008-05-10T11:34:49Z</time>
+    </rtept>
+    <rtept lat="48.135773" lon="8.174819">
+      <name>P441</name>
+      <ele>991</ele>
+      <time>2008-05-10T11:35:06Z</time>
+    </rtept>
+    <rtept lat="48.134004" lon="8.175872">
+      <name>P442</name>
+      <ele>979</ele>
+      <time>2008-05-10T11:35:26Z</time>
+    </rtept>
+    <rtept lat="48.13406" lon="8.177377">
+      <name>P443</name>
+      <ele>972</ele>
+      <time>2008-05-10T11:35:36Z</time>
+    </rtept>
+    <rtept lat="48.133058" lon="8.178092">
+      <name>P444</name>
+      <ele>983</ele>
+      <time>2008-05-10T11:36:13Z</time>
+    </rtept>
+    <rtept lat="48.129422" lon="8.178385">
+      <name>P445</name>
+      <ele>1003</ele>
+      <time>2008-05-10T11:38:30Z</time>
+    </rtept>
+    <rtept lat="48.12665" lon="8.173143">
+      <name>P446</name>
+      <ele>1001</ele>
+      <time>2008-05-10T11:39:38Z</time>
+    </rtept>
+    <rtept lat="48.123358" lon="8.168961">
+      <name>P447</name>
+      <ele>1012</ele>
+      <time>2008-05-10T11:41:13Z</time>
+    </rtept>
+    <rtept lat="48.120617" lon="8.169537">
+      <name>P448</name>
+      <ele>1006</ele>
+      <time>2008-05-10T11:41:47Z</time>
+    </rtept>
+    <rtept lat="48.117362" lon="8.167354">
+      <name>P449</name>
+      <ele>1006</ele>
+      <time>2008-05-10T11:42:45Z</time>
+    </rtept>
+    <rtept lat="48.116056" lon="8.166917">
+      <name>P450</name>
+      <ele>1009</ele>
+      <time>2008-05-10T11:43:10Z</time>
+    </rtept>
+    <rtept lat="48.113708" lon="8.170499">
+      <name>P451</name>
+      <ele>1011</ele>
+      <time>2008-05-10T11:44:27Z</time>
+    </rtept>
+    <rtept lat="48.11063" lon="8.170422">
+      <name>P452</name>
+      <ele>1012</ele>
+      <time>2008-05-10T11:45:35Z</time>
+    </rtept>
+    <rtept lat="48.109215" lon="8.171409">
+      <name>P453</name>
+      <ele>1012</ele>
+      <time>2008-05-10T11:46:10Z</time>
+    </rtept>
+    <rtept lat="48.107264" lon="8.165926">
+      <name>P454</name>
+      <ele>968</ele>
+      <time>2008-05-10T11:47:02Z</time>
+    </rtept>
+    <rtept lat="48.105695" lon="8.166778">
+      <name>P455</name>
+      <ele>981</ele>
+      <time>2008-05-10T11:49:15Z</time>
+    </rtept>
+    <rtept lat="48.104851" lon="8.16681">
+      <name>P456</name>
+      <ele>984</ele>
+      <time>2008-05-10T11:49:39Z</time>
+    </rtept>
+    <rtept lat="48.104166" lon="8.167518">
+      <name>P457</name>
+      <ele>985</ele>
+      <time>2008-05-10T11:50:03Z</time>
+    </rtept>
+    <rtept lat="48.102729" lon="8.167182">
+      <name>P458</name>
+      <ele>991</ele>
+      <time>2008-05-10T11:50:47Z</time>
+    </rtept>
+    <rtept lat="48.10173" lon="8.168457">
+      <name>P459</name>
+      <ele>996</ele>
+      <time>2008-05-10T11:51:35Z</time>
+    </rtept>
+    <rtept lat="48.102029" lon="8.167432">
+      <name>P460</name>
+      <ele>1003</ele>
+      <time>2008-05-10T11:52:16Z</time>
+    </rtept>
+    <rtept lat="48.101675" lon="8.167012">
+      <name>P461</name>
+      <ele>1010</ele>
+      <time>2008-05-10T11:52:45Z</time>
+    </rtept>
+    <rtept lat="48.102477" lon="8.161036">
+      <name>P462</name>
+      <ele>1050</ele>
+      <time>2008-05-10T11:56:56Z</time>
+    </rtept>
+    <rtept lat="48.098359" lon="8.155653">
+      <name>P463</name>
+      <ele>1093</ele>
+      <time>2008-05-10T12:01:41Z</time>
+    </rtept>
+    <rtept lat="48.09646" lon="8.154482">
+      <name>P464</name>
+      <ele>1089</ele>
+      <time>2008-05-10T12:02:22Z</time>
+    </rtept>
+    <rtept lat="48.095309" lon="8.15261">
+      <name>P465</name>
+      <ele>1096</ele>
+      <time>2008-05-10T12:03:19Z</time>
+    </rtept>
+    <rtept lat="48.092297" lon="8.153598">
+      <name>P466</name>
+      <ele>1113</ele>
+      <time>2008-05-10T12:05:18Z</time>
+    </rtept>
+    <rtept lat="48.091605" lon="8.154377">
+      <name>P467</name>
+      <ele>1108</ele>
+      <time>2008-05-10T12:05:34Z</time>
+    </rtept>
+    <rtept lat="48.090955" lon="8.154206">
+      <name>P468</name>
+      <ele>1110</ele>
+      <time>2008-05-10T12:05:50Z</time>
+    </rtept>
+    <rtept lat="48.09062" lon="8.153431">
+      <name>P469</name>
+      <ele>1115</ele>
+      <time>2008-05-10T12:06:19Z</time>
+    </rtept>
+    <rtept lat="48.088997" lon="8.154267">
+      <name>P470</name>
+      <ele>1105</ele>
+      <time>2008-05-10T12:08:40Z</time>
+    </rtept>
+    <rtept lat="48.087754" lon="8.158217">
+      <name>P471</name>
+      <ele>1117</ele>
+      <time>2008-05-10T12:10:12Z</time>
+    </rtept>
+    <rtept lat="48.086522" lon="8.159605">
+      <name>P472</name>
+      <ele>1119</ele>
+      <time>2008-05-10T12:10:54Z</time>
+    </rtept>
+    <rtept lat="48.083654" lon="8.16015">
+      <name>P473</name>
+      <ele>1135</ele>
+      <time>2008-05-10T12:12:30Z</time>
+    </rtept>
+    <rtept lat="48.080204" lon="8.159383">
+      <name>P474</name>
+      <ele>1141</ele>
+      <time>2008-05-10T12:13:58Z</time>
+    </rtept>
+    <rtept lat="48.072744" lon="8.168964">
+      <name>P475</name>
+      <ele>1095</ele>
+      <time>2008-05-10T12:18:16Z</time>
+    </rtept>
+    <rtept lat="48.068597" lon="8.167902">
+      <name>P476</name>
+      <ele>1076</ele>
+      <time>2008-05-10T12:19:59Z</time>
+    </rtept>
+    <rtept lat="48.066849" lon="8.168049">
+      <name>P477</name>
+      <ele>1071</ele>
+      <time>2008-05-10T12:20:34Z</time>
+    </rtept>
+    <rtept lat="48.064187" lon="8.170843">
+      <name>P478</name>
+      <ele>1072</ele>
+      <time>2008-05-10T12:21:26Z</time>
+    </rtept>
+    <rtept lat="48.063744" lon="8.173563">
+      <name>P479</name>
+      <ele>1066</ele>
+      <time>2008-05-10T12:22:00Z</time>
+    </rtept>
+    <rtept lat="48.062755" lon="8.175594">
+      <name>P480</name>
+      <ele>1049</ele>
+      <time>2008-05-10T12:22:47Z</time>
+    </rtept>
+    <rtept lat="48.059989" lon="8.17476">
+      <name>P481</name>
+      <ele>1043</ele>
+      <time>2008-05-10T12:24:16Z</time>
+    </rtept>
+    <rtept lat="48.051254" lon="8.173806">
+      <name>P482</name>
+      <ele>1046</ele>
+      <time>2008-05-10T12:27:18Z</time>
+    </rtept>
+    <rtept lat="48.050921" lon="8.174651">
+      <name>P483</name>
+      <ele>1047</ele>
+      <time>2008-05-10T12:27:34Z</time>
+    </rtept>
+    <rtept lat="48.048955" lon="8.175522">
+      <name>P484</name>
+      <ele>1043</ele>
+      <time>2008-05-10T12:28:11Z</time>
+    </rtept>
+    <rtept lat="48.040667" lon="8.17383">
+      <name>P485</name>
+      <ele>986</ele>
+      <time>2008-05-10T12:30:15Z</time>
+    </rtept>
+    <rtept lat="48.039643" lon="8.172928">
+      <name>P486</name>
+      <ele>986</ele>
+      <time>2008-05-10T12:30:34Z</time>
+    </rtept>
+    <rtept lat="48.038692" lon="8.17452">
+      <name>P487</name>
+      <ele>989</ele>
+      <time>2008-05-10T12:31:16Z</time>
+    </rtept>
+    <rtept lat="48.028918" lon="8.178791">
+      <name>P488</name>
+      <ele>1003</ele>
+      <time>2008-05-10T12:35:45Z</time>
+    </rtept>
+    <rtept lat="48.026166" lon="8.177391">
+      <name>P489</name>
+      <ele>1011</ele>
+      <time>2008-05-10T12:37:24Z</time>
+    </rtept>
+    <rtept lat="48.024852" lon="8.187528">
+      <name>P490</name>
+      <ele>994</ele>
+      <time>2008-05-10T12:42:11Z</time>
+    </rtept>
+    <rtept lat="48.023712" lon="8.18933">
+      <name>P491</name>
+      <ele>984</ele>
+      <time>2008-05-10T12:42:30Z</time>
+    </rtept>
+    <rtept lat="48.022587" lon="8.189219">
+      <name>P492</name>
+      <ele>981</ele>
+      <time>2008-05-10T12:42:58Z</time>
+    </rtept>
+    <rtept lat="48.020319" lon="8.191612">
+      <name>P493</name>
+      <ele>1028</ele>
+      <time>2008-05-10T12:46:36Z</time>
+    </rtept>
+    <rtept lat="48.019765" lon="8.196">
+      <name>P494</name>
+      <ele>1062</ele>
+      <time>2008-05-10T12:49:43Z</time>
+    </rtept>
+    <rtept lat="48.019864" lon="8.196892">
+      <name>P495</name>
+      <ele>1063</ele>
+      <time>2008-05-10T12:50:08Z</time>
+    </rtept>
+    <rtept lat="48.017711" lon="8.199062">
+      <name>P496</name>
+      <ele>1061</ele>
+      <time>2008-05-10T12:53:27Z</time>
+    </rtept>
+    <rtept lat="48.016794" lon="8.199255">
+      <name>P497</name>
+      <ele>1064</ele>
+      <time>2008-05-10T12:53:54Z</time>
+    </rtept>
+    <rtept lat="48.015042" lon="8.202005">
+      <name>P498</name>
+      <ele>1061</ele>
+      <time>2008-05-10T12:54:42Z</time>
+    </rtept>
+    <rtept lat="48.008735" lon="8.203392">
+      <name>P499</name>
+      <ele>1057</ele>
+      <time>2008-05-10T12:56:40Z</time>
+    </rtept>
+    <rtept lat="48.006239" lon="8.202287">
+      <name>P500</name>
+      <ele>1052</ele>
+      <time>2008-05-10T12:57:26Z</time>
+    </rtept>
+    <rtept lat="48.00584" lon="8.20016">
+      <name>P501</name>
+      <ele>1068</ele>
+      <time>2008-05-10T12:59:06Z</time>
+    </rtept>
+    <rtept lat="48.001" lon="8.19642">
+      <name>P502</name>
+      <ele>1030</ele>
+      <time>2008-05-10T13:00:13Z</time>
+    </rtept>
+    <rtept lat="48.000407" lon="8.196537">
+      <name>P503</name>
+      <ele>1032</ele>
+      <time>2008-05-10T13:00:31Z</time>
+    </rtept>
+    <rtept lat="47.998078" lon="8.194832">
+      <name>P504</name>
+      <ele>1043</ele>
+      <time>2008-05-10T13:49:23Z</time>
+    </rtept>
+    <rtept lat="47.997515" lon="8.192114">
+      <name>P505</name>
+      <ele>1078</ele>
+      <time>2008-05-10T13:52:46Z</time>
+    </rtept>
+    <rtept lat="47.996291" lon="8.189814">
+      <name>P506</name>
+      <ele>1096</ele>
+      <time>2008-05-10T13:54:57Z</time>
+    </rtept>
+    <rtept lat="47.994766" lon="8.188002">
+      <name>P507</name>
+      <ele>1105</ele>
+      <time>2008-05-10T13:56:15Z</time>
+    </rtept>
+    <rtept lat="47.993966" lon="8.18586">
+      <name>P508</name>
+      <ele>1101</ele>
+      <time>2008-05-10T13:56:52Z</time>
+    </rtept>
+    <rtept lat="47.992907" lon="8.179416">
+      <name>P509</name>
+      <ele>1097</ele>
+      <time>2008-05-10T13:59:56Z</time>
+    </rtept>
+    <rtept lat="47.991705" lon="8.174673">
+      <name>P510</name>
+      <ele>1069</ele>
+      <time>2008-05-10T14:00:42Z</time>
+    </rtept>
+    <rtept lat="47.993015" lon="8.168682">
+      <name>P511</name>
+      <ele>1090</ele>
+      <time>2008-05-10T14:03:24Z</time>
+    </rtept>
+    <rtept lat="47.99176" lon="8.166268">
+      <name>P512</name>
+      <ele>1084</ele>
+      <time>2008-05-10T14:03:56Z</time>
+    </rtept>
+    <rtept lat="47.991169" lon="8.166159">
+      <name>P513</name>
+      <ele>1089</ele>
+      <time>2008-05-10T14:04:15Z</time>
+    </rtept>
+    <rtept lat="47.989306" lon="8.162602">
+      <name>P514</name>
+      <ele>1087</ele>
+      <time>2008-05-10T14:05:37Z</time>
+    </rtept>
+    <rtept lat="47.989274" lon="8.158986">
+      <name>P515</name>
+      <ele>1054</ele>
+      <time>2008-05-10T14:06:23Z</time>
+    </rtept>
+    <rtept lat="47.990314" lon="8.158162">
+      <name>P516</name>
+      <ele>1051</ele>
+      <time>2008-05-10T14:06:52Z</time>
+    </rtept>
+    <rtept lat="47.989749" lon="8.151957">
+      <name>P517</name>
+      <ele>1051</ele>
+      <time>2008-05-10T14:09:48Z</time>
+    </rtept>
+    <rtept lat="47.987659" lon="8.146357">
+      <name>P518</name>
+      <ele>1029</ele>
+      <time>2008-05-10T14:11:22Z</time>
+    </rtept>
+    <rtept lat="47.985104" lon="8.146606">
+      <name>P519</name>
+      <ele>1007</ele>
+      <time>2008-05-10T14:11:54Z</time>
+    </rtept>
+    <rtept lat="47.983222" lon="8.14294">
+      <name>P520</name>
+      <ele>1013</ele>
+      <time>2008-05-10T14:13:38Z</time>
+    </rtept>
+    <rtept lat="47.982624" lon="8.143372">
+      <name>P521</name>
+      <ele>1013</ele>
+      <time>2008-05-10T14:14:12Z</time>
+    </rtept>
+    <rtept lat="47.981121" lon="8.142632">
+      <name>P522</name>
+      <ele>1022</ele>
+      <time>2008-05-10T14:15:31Z</time>
+    </rtept>
+    <rtept lat="47.982606" lon="8.13897">
+      <name>P523</name>
+      <ele>1017</ele>
+      <time>2008-05-10T14:16:48Z</time>
+    </rtept>
+    <rtept lat="47.981545" lon="8.137315">
+      <name>P524</name>
+      <ele>1015</ele>
+      <time>2008-05-10T14:17:22Z</time>
+    </rtept>
+    <rtept lat="47.981043" lon="8.137872">
+      <name>P525</name>
+      <ele>1025</ele>
+      <time>2008-05-10T14:17:52Z</time>
+    </rtept>
+    <rtept lat="47.980139" lon="8.13679">
+      <name>P526</name>
+      <ele>1035</ele>
+      <time>2008-05-10T14:18:54Z</time>
+    </rtept>
+    <rtept lat="47.979717" lon="8.134423">
+      <name>P527</name>
+      <ele>1041</ele>
+      <time>2008-05-10T14:19:50Z</time>
+    </rtept>
+    <rtept lat="47.9777880544852" lon="8.12900452880085">
+      <name>P528</name>
+      <ele>1057</ele>
+      <time>2008-05-10T14:23:29Z</time>
+    </rtept>
+    <rtept lat="47.976472" lon="8.13076">
+      <name>P529</name>
+      <ele>1052</ele>
+      <time>2008-05-10T14:24:08Z</time>
+    </rtept>
+    <rtept lat="47.974761" lon="8.130701">
+      <name>P530</name>
+      <ele>1050</ele>
+      <time>2008-05-10T14:24:40Z</time>
+    </rtept>
+    <rtept lat="47.974585" lon="8.13136">
+      <name>P531</name>
+      <ele>1047</ele>
+      <time>2008-05-10T14:24:50Z</time>
+    </rtept>
+    <rtept lat="47.972461" lon="8.131199">
+      <name>P532</name>
+      <ele>1052</ele>
+      <time>2008-05-10T14:25:44Z</time>
+    </rtept>
+    <rtept lat="47.967058" lon="8.134193">
+      <name>P533</name>
+      <ele>1073</ele>
+      <time>2008-05-10T14:29:34Z</time>
+    </rtept>
+    <rtept lat="47.967331" lon="8.133228">
+      <name>P534</name>
+      <ele>1082</ele>
+      <time>2008-05-10T14:30:20Z</time>
+    </rtept>
+    <rtept lat="47.965276" lon="8.132024">
+      <name>P535</name>
+      <ele>1088</ele>
+      <time>2008-05-10T14:31:34Z</time>
+    </rtept>
+    <rtept lat="47.964854" lon="8.131194">
+      <name>P536</name>
+      <ele>1088</ele>
+      <time>2008-05-10T14:31:48Z</time>
+    </rtept>
+    <rtept lat="47.966761" lon="8.128277">
+      <name>P537</name>
+      <ele>1082</ele>
+      <time>2008-05-10T14:32:44Z</time>
+    </rtept>
+    <rtept lat="47.966979" lon="8.126904">
+      <name>P538</name>
+      <ele>1078</ele>
+      <time>2008-05-10T14:32:56Z</time>
+    </rtept>
+    <rtept lat="47.966065" lon="8.119824">
+      <name>P539</name>
+      <ele>1070</ele>
+      <time>2008-05-10T14:34:21Z</time>
+    </rtept>
+    <rtept lat="47.964518" lon="8.117071">
+      <name>P540</name>
+      <ele>1073</ele>
+      <time>2008-05-10T14:35:27Z</time>
+    </rtept>
+    <rtept lat="47.960106" lon="8.11552">
+      <name>P541</name>
+      <ele>1099</ele>
+      <time>2008-05-10T14:39:12Z</time>
+    </rtept>
+    <rtept lat="47.959073" lon="8.113866">
+      <name>P542</name>
+      <ele>1106</ele>
+      <time>2008-05-10T14:40:05Z</time>
+    </rtept>
+    <rtept lat="47.957852" lon="8.10898">
+      <name>P543</name>
+      <ele>1108</ele>
+      <time>2008-05-10T14:41:26Z</time>
+    </rtept>
+    <rtept lat="47.952541" lon="8.105674">
+      <name>P544</name>
+      <ele>1142</ele>
+      <time>2008-05-10T14:44:49Z</time>
+    </rtept>
+    <rtept lat="47.951448" lon="8.107625">
+      <name>P545</name>
+      <ele>1160</ele>
+      <time>2008-05-10T14:46:25Z</time>
+    </rtept>
+    <rtept lat="47.945615" lon="8.114898">
+      <name>P546</name>
+      <ele>1159</ele>
+      <time>2008-05-10T14:51:20Z</time>
+    </rtept>
+    <rtept lat="47.942075" lon="8.117033">
+      <name>P547</name>
+      <ele>1175</ele>
+      <time>2008-05-10T14:53:47Z</time>
+    </rtept>
+    <rtept lat="47.939862" lon="8.116349">
+      <name>P548</name>
+      <ele>1176</ele>
+      <time>2008-05-10T14:54:31Z</time>
+    </rtept>
+    <rtept lat="47.94094" lon="8.124101">
+      <name>P549</name>
+      <ele>1189</ele>
+      <time>2008-05-10T14:58:13Z</time>
+    </rtept>
+    <rtept lat="47.939731" lon="8.126494">
+      <name>P550</name>
+      <ele>1167</ele>
+      <time>2008-05-10T14:59:05Z</time>
+    </rtept>
+    <rtept lat="47.937049" lon="8.12843">
+      <name>P551</name>
+      <ele>1130</ele>
+      <time>2008-05-10T15:00:09Z</time>
+    </rtept>
+    <rtept lat="47.93333" lon="8.12903">
+      <name>P552</name>
+      <ele>1120</ele>
+      <time>2008-05-10T15:01:06Z</time>
+    </rtept>
+    <rtept lat="47.92718" lon="8.12702">
+      <name>P553</name>
+      <ele>1069</ele>
+      <time>2008-05-10T15:02:45Z</time>
+    </rtept>
+    <rtept lat="47.925835" lon="8.127608">
+      <name>P554</name>
+      <ele>1056</ele>
+      <time>2008-05-10T15:03:02Z</time>
+    </rtept>
+    <rtept lat="47.925569" lon="8.126374">
+      <name>P555</name>
+      <ele>1047</ele>
+      <time>2008-05-10T15:03:22Z</time>
+    </rtept>
+    <rtept lat="47.919373" lon="8.127456">
+      <name>P556</name>
+      <ele>990</ele>
+      <time>2008-05-10T15:04:47Z</time>
+    </rtept>
+    <rtept lat="47.917812" lon="8.128455">
+      <name>P557</name>
+      <ele>963</ele>
+      <time>2008-05-10T15:05:14Z</time>
+    </rtept>
+    <rtept lat="47.916712" lon="8.12802">
+      <name>P558</name>
+      <ele>958</ele>
+      <time>2008-05-10T15:05:24Z</time>
+    </rtept>
+    <rtept lat="47.910863" lon="8.131441">
+      <name>P559</name>
+      <ele>917</ele>
+      <time>2008-05-10T15:06:44Z</time>
+    </rtept>
+    <rtept lat="47.908964" lon="8.13361">
+      <name>P560</name>
+      <ele>900</ele>
+      <time>2008-05-10T15:07:10Z</time>
+    </rtept>
+    <rtept lat="47.907611" lon="8.13509">
+      <name>P561</name>
+      <ele>886</ele>
+      <time>2008-05-10T15:07:52Z</time>
+    </rtept>
+    <rtept lat="47.906784" lon="8.137821">
+      <name>P562</name>
+      <ele>877</ele>
+      <time>2008-05-10T15:08:46Z</time>
+    </rtept>
+    <rtept lat="47.906833" lon="8.139431">
+      <name>P563</name>
+      <ele>874</ele>
+      <time>2008-05-10T15:09:01Z</time>
+    </rtept>
+    <rtept lat="47.906163" lon="8.141203">
+      <name>P564</name>
+      <ele>873</ele>
+      <time>2008-05-10T15:09:28Z</time>
+    </rtept>
+    <rtept lat="47.900753" lon="8.150218">
+      <name>P565</name>
+      <ele>863</ele>
+      <time>2008-05-10T15:13:02Z</time>
+    </rtept>
+    <rtept lat="47.899942" lon="8.150462">
+      <name>P566</name>
+      <ele>856</ele>
+      <time>2008-05-10T15:13:20Z</time>
+    </rtept>
+    <rtept lat="47.899683" lon="8.146365">
+      <name>P567</name>
+      <ele>856</ele>
+      <time>2008-05-10T15:15:38Z</time>
+    </rtept>
+    <rtept lat="47.897406" lon="8.141763">
+      <name>P568</name>
+      <ele>889</ele>
+      <time>2008-05-10T15:18:56Z</time>
+    </rtept>
+    <rtept lat="47.894371" lon="8.137875">
+      <name>P569</name>
+      <ele>908</ele>
+      <time>2008-05-10T15:23:00Z</time>
+    </rtept>
+    <rtept lat="47.894557" lon="8.136643">
+      <name>P570</name>
+      <ele>909</ele>
+      <time>2008-05-10T15:24:06Z</time>
+    </rtept>
+    <rtept lat="47.897278" lon="8.135698">
+      <name>P571</name>
+      <ele>947</ele>
+      <time>2008-05-10T15:27:06Z</time>
+    </rtept>
+    <rtept lat="47.898557" lon="8.132176">
+      <name>P572</name>
+      <ele>972</ele>
+      <time>2008-05-10T15:29:50Z</time>
+    </rtept>
+    <rtept lat="47.898161" lon="8.131006">
+      <name>P573</name>
+      <ele>977</ele>
+      <time>2008-05-10T15:30:18Z</time>
+    </rtept>
+    <rtept lat="47.898164" lon="8.12884">
+      <name>P574</name>
+      <ele>979</ele>
+      <time>2008-05-10T15:30:56Z</time>
+    </rtept>
+    <rtept lat="47.89732" lon="8.126088">
+      <name>P575</name>
+      <ele>995</ele>
+      <time>2008-05-10T15:32:42Z</time>
+    </rtept>
+    <rtept lat="47.897637" lon="8.125638">
+      <name>P576</name>
+      <ele>1000</ele>
+      <time>2008-05-10T15:33:07Z</time>
+    </rtept>
+    <rtept lat="47.897558" lon="8.124523">
+      <name>P577</name>
+      <ele>1011</ele>
+      <time>2008-05-10T15:33:48Z</time>
+    </rtept>
+    <rtept lat="47.896586" lon="8.122483">
+      <name>P578</name>
+      <ele>1006</ele>
+      <time>2008-05-10T15:34:22Z</time>
+    </rtept>
+    <rtept lat="47.895793" lon="8.122101">
+      <name>P579</name>
+      <ele>1011</ele>
+      <time>2008-05-10T15:34:45Z</time>
+    </rtept>
+    <rtept lat="47.894106" lon="8.118599">
+      <name>P580</name>
+      <ele>1017</ele>
+      <time>2008-05-10T15:36:21Z</time>
+    </rtept>
+    <rtept lat="47.894192" lon="8.115835">
+      <name>P581</name>
+      <ele>1020</ele>
+      <time>2008-05-10T15:37:25Z</time>
+    </rtept>
+    <rtept lat="47.895917" lon="8.112866">
+      <name>P582</name>
+      <ele>1018</ele>
+      <time>2008-05-10T15:38:17Z</time>
+    </rtept>
+    <rtept lat="47.897802" lon="8.109963">
+      <name>P583</name>
+      <ele>989</ele>
+      <time>2008-05-10T15:39:53Z</time>
+    </rtept>
+    <rtept lat="47.894563" lon="8.107507">
+      <name>P584</name>
+      <ele>953</ele>
+      <time>2008-05-10T15:55:22Z</time>
+    </rtept>
+    <rtept lat="47.895058" lon="8.095389">
+      <name>P585</name>
+      <ele>970</ele>
+      <time>2008-05-11T06:40:43Z</time>
+    </rtept>
+    <rtept lat="47.895065" lon="8.094306">
+      <name>P586</name>
+      <ele>971</ele>
+      <time>2008-05-11T06:41:09Z</time>
+    </rtept>
+    <rtept lat="47.894245" lon="8.092276">
+      <name>P587</name>
+      <ele>972</ele>
+      <time>2008-05-11T06:42:49Z</time>
+    </rtept>
+    <rtept lat="47.893517" lon="8.091569">
+      <name>P588</name>
+      <ele>972</ele>
+      <time>2008-05-11T06:43:11Z</time>
+    </rtept>
+    <rtept lat="47.891539" lon="8.091336">
+      <name>P589</name>
+      <ele>977</ele>
+      <time>2008-05-11T06:43:55Z</time>
+    </rtept>
+    <rtept lat="47.890535" lon="8.090643">
+      <name>P590</name>
+      <ele>990</ele>
+      <time>2008-05-11T06:44:48Z</time>
+    </rtept>
+    <rtept lat="47.889579" lon="8.091099">
+      <name>P591</name>
+      <ele>1003</ele>
+      <time>2008-05-11T06:45:44Z</time>
+    </rtept>
+    <rtept lat="47.888545" lon="8.090009">
+      <name>P592</name>
+      <ele>1015</ele>
+      <time>2008-05-11T06:46:44Z</time>
+    </rtept>
+    <rtept lat="47.887571" lon="8.086951">
+      <name>P593</name>
+      <ele>1030</ele>
+      <time>2008-05-11T06:48:06Z</time>
+    </rtept>
+    <rtept lat="47.887308" lon="8.077597">
+      <name>P594</name>
+      <ele>1073</ele>
+      <time>2008-05-11T06:52:56Z</time>
+    </rtept>
+    <rtept lat="47.888736" lon="8.068367">
+      <name>P595</name>
+      <ele>1086</ele>
+      <time>2008-05-11T06:56:59Z</time>
+    </rtept>
+    <rtept lat="47.888644" lon="8.066447">
+      <name>P596</name>
+      <ele>1088</ele>
+      <time>2008-05-11T06:57:30Z</time>
+    </rtept>
+    <rtept lat="47.888947" lon="8.065617">
+      <name>P597</name>
+      <ele>1087</ele>
+      <time>2008-05-11T06:57:42Z</time>
+    </rtept>
+    <rtept lat="47.893069" lon="8.061247">
+      <name>P598</name>
+      <ele>1080</ele>
+      <time>2008-05-11T06:59:08Z</time>
+    </rtept>
+    <rtept lat="47.890031" lon="8.056263">
+      <name>P599</name>
+      <ele>1073</ele>
+      <time>2008-05-11T07:00:26Z</time>
+    </rtept>
+    <rtept lat="47.888121" lon="8.054624">
+      <name>P600</name>
+      <ele>1067</ele>
+      <time>2008-05-11T07:01:00Z</time>
+    </rtept>
+    <rtept lat="47.88724" lon="8.049989">
+      <name>P601</name>
+      <ele>1061</ele>
+      <time>2008-05-11T07:01:46Z</time>
+    </rtept>
+    <rtept lat="47.886136" lon="8.048846">
+      <name>P602</name>
+      <ele>1064</ele>
+      <time>2008-05-11T07:02:18Z</time>
+    </rtept>
+    <rtept lat="47.883361" lon="8.04942">
+      <name>P603</name>
+      <ele>1080</ele>
+      <time>2008-05-11T07:04:11Z</time>
+    </rtept>
+    <rtept lat="47.881659" lon="8.048891">
+      <name>P604</name>
+      <ele>1089</ele>
+      <time>2008-05-11T07:05:20Z</time>
+    </rtept>
+    <rtept lat="47.88074" lon="8.0471">
+      <name>P605</name>
+      <ele>1093</ele>
+      <time>2008-05-11T07:06:06Z</time>
+    </rtept>
+    <rtept lat="47.882439" lon="8.039684">
+      <name>P606</name>
+      <ele>1139</ele>
+      <time>2008-05-11T07:10:28Z</time>
+    </rtept>
+    <rtept lat="47.881572" lon="8.032976">
+      <name>P607</name>
+      <ele>1193</ele>
+      <time>2008-05-11T07:15:40Z</time>
+    </rtept>
+    <rtept lat="47.878946" lon="8.031931">
+      <name>P608</name>
+      <ele>1225</ele>
+      <time>2008-05-11T07:18:36Z</time>
+    </rtept>
+    <rtept lat="47.877828" lon="8.030414">
+      <name>P609</name>
+      <ele>1240</ele>
+      <time>2008-05-11T07:20:19Z</time>
+    </rtept>
+    <rtept lat="47.873929" lon="8.032565">
+      <name>P610</name>
+      <ele>1276</ele>
+      <time>2008-05-11T07:26:51Z</time>
+    </rtept>
+    <rtept lat="47.873726" lon="8.026735">
+      <name>P611</name>
+      <ele>1311</ele>
+      <time>2008-05-11T07:35:34Z</time>
+    </rtept>
+    <rtept lat="47.874766" lon="8.026846">
+      <name>P612</name>
+      <ele>1321</ele>
+      <time>2008-05-11T07:37:27Z</time>
+    </rtept>
+    <rtept lat="47.874286" lon="8.02597">
+      <name>P613</name>
+      <ele>1342</ele>
+      <time>2008-05-11T07:40:07Z</time>
+    </rtept>
+    <rtept lat="47.874031" lon="8.024383">
+      <name>P614</name>
+      <ele>1361</ele>
+      <time>2008-05-11T07:43:06Z</time>
+    </rtept>
+    <rtept lat="47.872998" lon="8.022739">
+      <name>P615</name>
+      <ele>1368</ele>
+      <time>2008-05-11T07:47:03Z</time>
+    </rtept>
+    <rtept lat="47.871867" lon="8.022958">
+      <name>P616</name>
+      <ele>1375</ele>
+      <time>2008-05-11T07:48:56Z</time>
+    </rtept>
+    <rtept lat="47.869822" lon="8.020898">
+      <name>P617</name>
+      <ele>1391</ele>
+      <time>2008-05-11T07:53:38Z</time>
+    </rtept>
+    <rtept lat="47.869913" lon="8.017356">
+      <name>P618</name>
+      <ele>1425</ele>
+      <time>2008-05-11T07:59:16Z</time>
+    </rtept>
+    <rtept lat="47.868898" lon="8.017318">
+      <name>P619</name>
+      <ele>1421</ele>
+      <time>2008-05-11T08:00:22Z</time>
+    </rtept>
+    <rtept lat="47.867355" lon="8.017913">
+      <name>P620</name>
+      <ele>1421</ele>
+      <time>2008-05-11T08:14:36Z</time>
+    </rtept>
+    <rtept lat="47.873663" lon="8.005029">
+      <name>P621</name>
+      <ele>1491</ele>
+      <time>2008-05-11T08:46:17Z</time>
+    </rtept>
+    <rtept lat="47.873035" lon="8.004938">
+      <name>P622</name>
+      <ele>1488</ele>
+      <time>2008-05-11T08:46:37Z</time>
+    </rtept>
+    <rtept lat="47.872593" lon="8.00333">
+      <name>P623</name>
+      <ele>1468</ele>
+      <time>2008-05-11T08:46:57Z</time>
+    </rtept>
+    <rtept lat="47.871837" lon="8.002414">
+      <name>P624</name>
+      <ele>1441</ele>
+      <time>2008-05-11T08:47:24Z</time>
+    </rtept>
+    <rtept lat="47.872075" lon="7.999724">
+      <name>P625</name>
+      <ele>1413</ele>
+      <time>2008-05-11T08:48:00Z</time>
+    </rtept>
+    <rtept lat="47.872281" lon="7.998025">
+      <name>P626</name>
+      <ele>1385</ele>
+      <time>2008-05-11T08:48:44Z</time>
+    </rtept>
+    <rtept lat="47.869019" lon="7.9957">
+      <name>P627</name>
+      <ele>1344</ele>
+      <time>2008-05-11T08:51:09Z</time>
+    </rtept>
+    <rtept lat="47.868201" lon="7.993543">
+      <name>P628</name>
+      <ele>1332</ele>
+      <time>2008-05-11T08:51:38Z</time>
+    </rtept>
+    <rtept lat="47.867798" lon="7.989676">
+      <name>P629</name>
+      <ele>1348</ele>
+      <time>2008-05-11T08:54:47Z</time>
+    </rtept>
+    <rtept lat="47.86678" lon="7.986234">
+      <name>P630</name>
+      <ele>1343</ele>
+      <time>2008-05-11T08:56:06Z</time>
+    </rtept>
+    <rtept lat="47.866885" lon="7.983332">
+      <name>P631</name>
+      <ele>1356</ele>
+      <time>2008-05-11T08:59:18Z</time>
+    </rtept>
+    <rtept lat="47.866226" lon="7.978211">
+      <name>P632</name>
+      <ele>1360</ele>
+      <time>2008-05-11T09:05:31Z</time>
+    </rtept>
+    <rtept lat="47.866592" lon="7.97572">
+      <name>P633</name>
+      <ele>1382</ele>
+      <time>2008-05-11T09:07:47Z</time>
+    </rtept>
+    <rtept lat="47.871047" lon="7.963832">
+      <name>P634</name>
+      <ele>1347</ele>
+      <time>2008-05-11T09:11:40Z</time>
+    </rtept>
+    <rtept lat="47.87422" lon="7.956162">
+      <name>P635</name>
+      <ele>1296</ele>
+      <time>2008-05-11T09:12:46Z</time>
+    </rtept>
+    <rtept lat="47.875631" lon="7.953823">
+      <name>P636</name>
+      <ele>1273</ele>
+      <time>2008-05-11T09:13:04Z</time>
+    </rtept>
+    <rtept lat="47.876414" lon="7.94446">
+      <name>P637</name>
+      <ele>1228</ele>
+      <time>2008-05-11T09:17:15Z</time>
+    </rtept>
+    <rtept lat="47.875191" lon="7.939814">
+      <name>P638</name>
+      <ele>1235</ele>
+      <time>2008-05-11T09:18:26Z</time>
+    </rtept>
+    <rtept lat="47.87551" lon="7.935329">
+      <name>P639</name>
+      <ele>1242</ele>
+      <time>2008-05-11T09:19:36Z</time>
+    </rtept>
+    <rtept lat="47.876573" lon="7.932894">
+      <name>P640</name>
+      <ele>1239</ele>
+      <time>2008-05-11T09:20:17Z</time>
+    </rtept>
+    <rtept lat="47.877072" lon="7.930451">
+      <name>P641</name>
+      <ele>1221</ele>
+      <time>2008-05-11T09:20:39Z</time>
+    </rtept>
+    <rtept lat="47.87777" lon="7.930031">
+      <name>P642</name>
+      <ele>1209</ele>
+      <time>2008-05-11T09:20:51Z</time>
+    </rtept>
+    <rtept lat="47.878361" lon="7.926706">
+      <name>P643</name>
+      <ele>1190</ele>
+      <time>2008-05-11T09:21:21Z</time>
+    </rtept>
+    <rtept lat="47.875413" lon="7.921078">
+      <name>P644</name>
+      <ele>1156</ele>
+      <time>2008-05-11T09:22:39Z</time>
+    </rtept>
+    <rtept lat="47.874681" lon="7.919431">
+      <name>P645</name>
+      <ele>1155</ele>
+      <time>2008-05-11T09:23:06Z</time>
+    </rtept>
+    <rtept lat="47.875325" lon="7.914065">
+      <name>P646</name>
+      <ele>1145</ele>
+      <time>2008-05-11T09:23:54Z</time>
+    </rtept>
+    <rtept lat="47.87705" lon="7.911915">
+      <name>P647</name>
+      <ele>1135</ele>
+      <time>2008-05-11T09:24:20Z</time>
+    </rtept>
+    <rtept lat="47.876374" lon="7.911084">
+      <name>P648</name>
+      <ele>1131</ele>
+      <time>2008-05-11T09:24:34Z</time>
+    </rtept>
+    <rtept lat="47.876516" lon="7.909656">
+      <name>P649</name>
+      <ele>1125</ele>
+      <time>2008-05-11T09:24:51Z</time>
+    </rtept>
+    <rtept lat="47.875898" lon="7.908919">
+      <name>P650</name>
+      <ele>1130</ele>
+      <time>2008-05-11T09:25:37Z</time>
+    </rtept>
+    <rtept lat="47.875458" lon="7.902158">
+      <name>P651</name>
+      <ele>1136</ele>
+      <time>2008-05-11T09:29:31Z</time>
+    </rtept>
+    <rtept lat="47.875307" lon="7.899086">
+      <name>P652</name>
+      <ele>1146</ele>
+      <time>2008-05-11T09:30:28Z</time>
+    </rtept>
+    <rtept lat="47.875606" lon="7.89771">
+      <name>P653</name>
+      <ele>1153</ele>
+      <time>2008-05-11T09:31:02Z</time>
+    </rtept>
+    <rtept lat="47.874684" lon="7.895839">
+      <name>P654</name>
+      <ele>1167</ele>
+      <time>2008-05-11T09:32:08Z</time>
+    </rtept>
+    <rtept lat="47.8732" lon="7.893886">
+      <name>P655</name>
+      <ele>1193</ele>
+      <time>2008-05-11T09:33:52Z</time>
+    </rtept>
+    <rtept lat="47.871793" lon="7.886378">
+      <name>P656</name>
+      <ele>1224</ele>
+      <time>2008-05-11T09:41:57Z</time>
+    </rtept>
+    <rtept lat="47.870611" lon="7.882105">
+      <name>P657</name>
+      <ele>1231</ele>
+      <time>2008-05-11T09:43:21Z</time>
+    </rtept>
+    <rtept lat="47.867408" lon="7.881648">
+      <name>P658</name>
+      <ele>1222</ele>
+      <time>2008-05-11T09:44:18Z</time>
+    </rtept>
+    <rtept lat="47.86572" lon="7.883286">
+      <name>P659</name>
+      <ele>1202</ele>
+      <time>2008-05-11T09:45:12Z</time>
+    </rtept>
+    <rtept lat="47.859463" lon="7.879547">
+      <name>P660</name>
+      <ele>1192</ele>
+      <time>2008-05-11T09:47:25Z</time>
+    </rtept>
+    <rtept lat="47.854429" lon="7.877985">
+      <name>P661</name>
+      <ele>1163</ele>
+      <time>2008-05-11T09:49:26Z</time>
+    </rtept>
+    <rtept lat="47.853397" lon="7.877875">
+      <name>P662</name>
+      <ele>1159</ele>
+      <time>2008-05-11T09:49:39Z</time>
+    </rtept>
+    <rtept lat="47.852029" lon="7.878721">
+      <name>P663</name>
+      <ele>1135</ele>
+      <time>2008-05-11T09:49:58Z</time>
+    </rtept>
+    <rtept lat="47.84946" lon="7.877068">
+      <name>P664</name>
+      <ele>1108</ele>
+      <time>2008-05-11T09:50:37Z</time>
+    </rtept>
+    <rtept lat="47.849433" lon="7.872036">
+      <name>P665</name>
+      <ele>1087</ele>
+      <time>2008-05-11T09:53:55Z</time>
+    </rtept>
+    <rtept lat="47.850282" lon="7.869221">
+      <name>P666</name>
+      <ele>1083</ele>
+      <time>2008-05-11T09:54:17Z</time>
+    </rtept>
+    <rtept lat="47.850242" lon="7.868194">
+      <name>P667</name>
+      <ele>1081</ele>
+      <time>2008-05-11T09:54:25Z</time>
+    </rtept>
+    <rtept lat="47.845114" lon="7.866599">
+      <name>P668</name>
+      <ele>1039</ele>
+      <time>2008-05-11T09:55:27Z</time>
+    </rtept>
+    <rtept lat="47.84568" lon="7.862787">
+      <name>P669</name>
+      <ele>1059</ele>
+      <time>2008-05-11T10:02:40Z</time>
+    </rtept>
+    <rtept lat="47.845199" lon="7.861235">
+      <name>P670</name>
+      <ele>1068</ele>
+      <time>2008-05-11T10:03:28Z</time>
+    </rtept>
+    <rtept lat="47.84375" lon="7.858867">
+      <name>P671</name>
+      <ele>1088</ele>
+      <time>2008-05-11T10:05:08Z</time>
+    </rtept>
+    <rtept lat="47.842676" lon="7.856489">
+      <name>P672</name>
+      <ele>1106</ele>
+      <time>2008-05-11T10:06:29Z</time>
+    </rtept>
+    <rtept lat="47.842185" lon="7.850788">
+      <name>P673</name>
+      <ele>1150</ele>
+      <time>2008-05-11T10:10:52Z</time>
+    </rtept>
+    <rtept lat="47.840856" lon="7.849902">
+      <name>P674</name>
+      <ele>1166</ele>
+      <time>2008-05-11T10:12:18Z</time>
+    </rtept>
+    <rtept lat="47.840628" lon="7.845266">
+      <name>P675</name>
+      <ele>1162</ele>
+      <time>2008-05-11T10:14:25Z</time>
+    </rtept>
+    <rtept lat="47.841065" lon="7.842952">
+      <name>P676</name>
+      <ele>1164</ele>
+      <time>2008-05-11T10:14:51Z</time>
+    </rtept>
+    <rtept lat="47.837014" lon="7.839484">
+      <name>P677</name>
+      <ele>1186</ele>
+      <time>2008-05-11T10:20:07Z</time>
+    </rtept>
+    <rtept lat="47.836223" lon="7.838285">
+      <name>P678</name>
+      <ele>1182</ele>
+      <time>2008-05-11T10:21:01Z</time>
+    </rtept>
+    <rtept lat="47.832963" lon="7.842125">
+      <name>P679</name>
+      <ele>1133</ele>
+      <time>2008-05-11T10:22:04Z</time>
+    </rtept>
+    <rtept lat="47.829774" lon="7.846006">
+      <name>P680</name>
+      <ele>1108</ele>
+      <time>2008-05-11T10:23:14Z</time>
+    </rtept>
+    <rtept lat="47.829925" lon="7.841499">
+      <name>P681</name>
+      <ele>1130</ele>
+      <time>2008-05-11T10:26:23Z</time>
+    </rtept>
+    <rtept lat="47.826279" lon="7.84036">
+      <name>P682</name>
+      <ele>1164</ele>
+      <time>2008-05-11T10:29:39Z</time>
+    </rtept>
+    <rtept lat="47.826861" lon="7.841694">
+      <name>P683</name>
+      <ele>1189</ele>
+      <time>2008-05-11T10:31:33Z</time>
+    </rtept>
+    <rtept lat="47.82567" lon="7.841">
+      <name>P684</name>
+      <ele>1205</ele>
+      <time>2008-05-11T10:32:56Z</time>
+    </rtept>
+    <rtept lat="47.824572" lon="7.83599">
+      <name>P685</name>
+      <ele>1288</ele>
+      <time>2008-05-11T10:42:26Z</time>
+    </rtept>
+    <rtept lat="47.824446" lon="7.836847">
+      <name>P686</name>
+      <ele>1302</ele>
+      <time>2008-05-11T10:43:46Z</time>
+    </rtept>
+    <rtept lat="47.82381" lon="7.837605">
+      <name>P687</name>
+      <ele>1321</ele>
+      <time>2008-05-11T10:45:26Z</time>
+    </rtept>
+    <rtept lat="47.823761" lon="7.835857">
+      <name>P688</name>
+      <ele>1343</ele>
+      <time>2008-05-11T10:47:41Z</time>
+    </rtept>
+    <rtept lat="47.822868092956" lon="7.83733797082807">
+      <name>P689</name>
+      <ele>1368</ele>
+      <time>2008-05-11T10:50:05Z</time>
+    </rtept>
+    <rtept lat="47.821127" lon="7.831886">
+      <name>P690</name>
+      <ele>1358</ele>
+      <time>2008-05-11T11:15:41Z</time>
+    </rtept>
+    <rtept lat="47.821039" lon="7.829786">
+      <name>P691</name>
+      <ele>1352</ele>
+      <time>2008-05-11T11:16:12Z</time>
+    </rtept>
+    <rtept lat="47.820313" lon="7.8285">
+      <name>P692</name>
+      <ele>1339</ele>
+      <time>2008-05-11T11:16:35Z</time>
+    </rtept>
+    <rtept lat="47.820829" lon="7.827412">
+      <name>P693</name>
+      <ele>1327</ele>
+      <time>2008-05-11T11:16:57Z</time>
+    </rtept>
+    <rtept lat="47.820868" lon="7.824708">
+      <name>P694</name>
+      <ele>1267</ele>
+      <time>2008-05-11T11:18:48Z</time>
+    </rtept>
+    <rtept lat="47.81998" lon="7.824105">
+      <name>P695</name>
+      <ele>1253</ele>
+      <time>2008-05-11T11:19:07Z</time>
+    </rtept>
+    <rtept lat="47.819583" lon="7.820552">
+      <name>P696</name>
+      <ele>1214</ele>
+      <time>2008-05-11T11:21:44Z</time>
+    </rtept>
+    <rtept lat="47.818591" lon="7.820099">
+      <name>P697</name>
+      <ele>1211</ele>
+      <time>2008-05-11T11:22:38Z</time>
+    </rtept>
+    <rtept lat="47.817262" lon="7.821893">
+      <name>P698</name>
+      <ele>1184</ele>
+      <time>2008-05-11T11:25:09Z</time>
+    </rtept>
+    <rtept lat="47.81749" lon="7.821348">
+      <name>P699</name>
+      <ele>1176</ele>
+      <time>2008-05-11T11:26:05Z</time>
+    </rtept>
+    <rtept lat="47.816456" lon="7.822034">
+      <name>P700</name>
+      <ele>1153</ele>
+      <time>2008-05-11T11:28:54Z</time>
+    </rtept>
+    <rtept lat="47.81405" lon="7.821225">
+      <name>P701</name>
+      <ele>1113</ele>
+      <time>2008-05-11T11:31:12Z</time>
+    </rtept>
+    <rtept lat="47.810687" lon="7.812163">
+      <name>P702</name>
+      <ele>1029</ele>
+      <time>2008-05-11T11:32:31Z</time>
+    </rtept>
+    <rtept lat="47.808352" lon="7.811868">
+      <name>P703</name>
+      <ele>1010</ele>
+      <time>2008-05-11T11:32:52Z</time>
+    </rtept>
+    <rtept lat="47.807692" lon="7.810271">
+      <name>P704</name>
+      <ele>1008</ele>
+      <time>2008-05-11T11:33:05Z</time>
+    </rtept>
+    <rtept lat="47.808529" lon="7.809012">
+      <name>P705</name>
+      <ele>1001</ele>
+      <time>2008-05-11T11:33:20Z</time>
+    </rtept>
+    <rtept lat="47.809168" lon="7.807013">
+      <name>P706</name>
+      <ele>994</ele>
+      <time>2008-05-11T11:33:33Z</time>
+    </rtept>
+    <rtept lat="47.809981" lon="7.806228">
+      <name>P707</name>
+      <ele>988</ele>
+      <time>2008-05-11T11:33:42Z</time>
+    </rtept>
+    <rtept lat="47.805102" lon="7.802695">
+      <name>P708</name>
+      <ele>957</ele>
+      <time>2008-05-11T11:34:59Z</time>
+    </rtept>
+    <rtept lat="47.804614" lon="7.799135">
+      <name>P709</name>
+      <ele>944</ele>
+      <time>2008-05-11T11:39:53Z</time>
+    </rtept>
+    <rtept lat="47.804955" lon="7.796188">
+      <name>P710</name>
+      <ele>925</ele>
+      <time>2008-05-11T11:40:12Z</time>
+    </rtept>
+    <rtept lat="47.803338" lon="7.792675">
+      <name>P711</name>
+      <ele>938</ele>
+      <time>2008-05-11T11:42:43Z</time>
+    </rtept>
+    <rtept lat="47.801138" lon="7.78732">
+      <name>P712</name>
+      <ele>1001</ele>
+      <time>2008-05-11T11:48:17Z</time>
+    </rtept>
+    <rtept lat="47.802448" lon="7.782559">
+      <name>P713</name>
+      <ele>1056</ele>
+      <time>2008-05-11T11:54:30Z</time>
+    </rtept>
+    <rtept lat="47.802036" lon="7.782488">
+      <name>P714</name>
+      <ele>1068</ele>
+      <time>2008-05-11T11:55:30Z</time>
+    </rtept>
+    <rtept lat="47.801007" lon="7.779091">
+      <name>P715</name>
+      <ele>1071</ele>
+      <time>2008-05-11T11:56:50Z</time>
+    </rtept>
+    <rtept lat="47.799114" lon="7.776619">
+      <name>P716</name>
+      <ele>1066</ele>
+      <time>2008-05-11T12:00:47Z</time>
+    </rtept>
+    <rtept lat="47.798399" lon="7.77455">
+      <name>P717</name>
+      <ele>1059</ele>
+      <time>2008-05-11T12:01:07Z</time>
+    </rtept>
+    <rtept lat="47.796486" lon="7.772812">
+      <name>P718</name>
+      <ele>1051</ele>
+      <time>2008-05-11T12:01:41Z</time>
+    </rtept>
+    <rtept lat="47.795188" lon="7.775215">
+      <name>P719</name>
+      <ele>1044</ele>
+      <time>2008-05-11T12:02:47Z</time>
+    </rtept>
+    <rtept lat="47.794536" lon="7.77048">
+      <name>P720</name>
+      <ele>1054</ele>
+      <time>2008-05-11T12:05:12Z</time>
+    </rtept>
+    <rtept lat="47.793055" lon="7.768317">
+      <name>P721</name>
+      <ele>1053</ele>
+      <time>2008-05-11T12:05:54Z</time>
+    </rtept>
+    <rtept lat="47.79284" lon="7.767386">
+      <name>P722</name>
+      <ele>1052</ele>
+      <time>2008-05-11T12:06:04Z</time>
+    </rtept>
+    <rtept lat="47.79357" lon="7.766318">
+      <name>P723</name>
+      <ele>1052</ele>
+      <time>2008-05-11T12:06:31Z</time>
+    </rtept>
+    <rtept lat="47.793387" lon="7.764926">
+      <name>P724</name>
+      <ele>1051</ele>
+      <time>2008-05-11T12:06:50Z</time>
+    </rtept>
+    <rtept lat="47.79237" lon="7.763461">
+      <name>P725</name>
+      <ele>1051</ele>
+      <time>2008-05-11T12:07:17Z</time>
+    </rtept>
+    <rtept lat="47.791253" lon="7.758507">
+      <name>P726</name>
+      <ele>1045</ele>
+      <time>2008-05-11T12:08:22Z</time>
+    </rtept>
+    <rtept lat="47.790484" lon="7.756548">
+      <name>P727</name>
+      <ele>1043</ele>
+      <time>2008-05-11T12:08:45Z</time>
+    </rtept>
+    <rtept lat="47.791217" lon="7.751107">
+      <name>P728</name>
+      <ele>1046</ele>
+      <time>2008-05-11T12:10:44Z</time>
+    </rtept>
+    <rtept lat="47.791939" lon="7.750683">
+      <name>P729</name>
+      <ele>1048</ele>
+      <time>2008-05-11T12:11:10Z</time>
+    </rtept>
+    <rtept lat="47.79249" lon="7.749964">
+      <name>P730</name>
+      <ele>1048</ele>
+      <time>2008-05-11T12:11:28Z</time>
+    </rtept>
+    <rtept lat="47.793506" lon="7.742836">
+      <name>P731</name>
+      <ele>1031</ele>
+      <time>2008-05-11T12:14:42Z</time>
+    </rtept>
+    <rtept lat="47.791784" lon="7.740658">
+      <name>P732</name>
+      <ele>1027</ele>
+      <time>2008-05-11T12:15:23Z</time>
+    </rtept>
+    <rtept lat="47.790833" lon="7.731388">
+      <name>P733</name>
+      <ele>1034</ele>
+      <time>2008-05-11T12:20:03Z</time>
+    </rtept>
+    <rtept lat="47.792213" lon="7.72921">
+      <name>P734</name>
+      <ele>1031</ele>
+      <time>2008-05-11T12:20:54Z</time>
+    </rtept>
+    <rtept lat="47.790159" lon="7.726477">
+      <name>P735</name>
+      <ele>1020</ele>
+      <time>2008-05-11T12:22:05Z</time>
+    </rtept>
+    <rtept lat="47.790486" lon="7.722951">
+      <name>P736</name>
+      <ele>1002</ele>
+      <time>2008-05-11T12:22:53Z</time>
+    </rtept>
+    <rtept lat="47.790183" lon="7.721027">
+      <name>P737</name>
+      <ele>989</ele>
+      <time>2008-05-11T12:23:26Z</time>
+    </rtept>
+    <rtept lat="47.787874" lon="7.722053">
+      <name>P738</name>
+      <ele>951</ele>
+      <time>2008-05-11T12:24:55Z</time>
+    </rtept>
+    <rtept lat="47.785728" lon="7.72072">
+      <name>P739</name>
+      <ele>931</ele>
+      <time>2008-05-11T12:26:00Z</time>
+    </rtept>
+    <rtept lat="47.783753" lon="7.720744">
+      <name>P740</name>
+      <ele>954</ele>
+      <time>2008-05-11T12:27:42Z</time>
+    </rtept>
+    <rtept lat="47.781098" lon="7.718315">
+      <name>P741</name>
+      <ele>980</ele>
+      <time>2008-05-11T12:30:56Z</time>
+    </rtept>
+    <rtept lat="47.782688" lon="7.715157">
+      <name>P742</name>
+      <ele>991</ele>
+      <time>2008-05-11T12:32:38Z</time>
+    </rtept>
+    <rtept lat="47.783347" lon="7.713166">
+      <name>P743</name>
+      <ele>998</ele>
+      <time>2008-05-11T12:33:20Z</time>
+    </rtept>
+    <rtept lat="47.782587" lon="7.705264">
+      <name>P744</name>
+      <ele>1060</ele>
+      <time>2008-05-11T12:38:40Z</time>
+    </rtept>
+    <rtept lat="47.781423" lon="7.704494">
+      <name>P745</name>
+      <ele>1069</ele>
+      <time>2008-05-11T12:39:34Z</time>
+    </rtept>
+    <rtept lat="47.779667" lon="7.701483">
+      <name>P746</name>
+      <ele>1104</ele>
+      <time>2008-05-11T12:43:00Z</time>
+    </rtept>
+    <rtept lat="47.778959" lon="7.702317">
+      <name>P747</name>
+      <ele>1134</ele>
+      <time>2008-05-11T12:48:32Z</time>
+    </rtept>
+    <rtept lat="47.773438" lon="7.703508">
+      <name>P748</name>
+      <ele>1106</ele>
+      <time>2008-05-11T13:37:35Z</time>
+    </rtept>
+    <rtept lat="47.771174" lon="7.703749">
+      <name>P749</name>
+      <ele>1065</ele>
+      <time>2008-05-11T13:38:11Z</time>
+    </rtept>
+    <rtept lat="47.771028" lon="7.703132">
+      <name>P750</name>
+      <ele>1060</ele>
+      <time>2008-05-11T13:38:22Z</time>
+    </rtept>
+    <rtept lat="47.770055" lon="7.705666">
+      <name>P751</name>
+      <ele>1017</ele>
+      <time>2008-05-11T13:39:06Z</time>
+    </rtept>
+    <rtept lat="47.767591" lon="7.706187">
+      <name>P752</name>
+      <ele>979</ele>
+      <time>2008-05-11T13:39:43Z</time>
+    </rtept>
+    <rtept lat="47.766021" lon="7.706825">
+      <name>P753</name>
+      <ele>955</ele>
+      <time>2008-05-11T13:40:03Z</time>
+    </rtept>
+    <rtept lat="47.766121" lon="7.705774">
+      <name>P754</name>
+      <ele>942</ele>
+      <time>2008-05-11T13:40:19Z</time>
+    </rtept>
+    <rtept lat="47.763948" lon="7.70762">
+      <name>P755</name>
+      <ele>903</ele>
+      <time>2008-05-11T13:40:49Z</time>
+    </rtept>
+    <rtept lat="47.763001" lon="7.707494">
+      <name>P756</name>
+      <ele>887</ele>
+      <time>2008-05-11T13:41:00Z</time>
+    </rtept>
+    <rtept lat="47.762527" lon="7.709118">
+      <name>P757</name>
+      <ele>865</ele>
+      <time>2008-05-11T13:41:59Z</time>
+    </rtept>
+    <rtept lat="47.76159" lon="7.708196">
+      <name>P758</name>
+      <ele>850</ele>
+      <time>2008-05-11T13:42:19Z</time>
+    </rtept>
+    <rtept lat="47.757994" lon="7.708132">
+      <name>P759</name>
+      <ele>838</ele>
+      <time>2008-05-11T13:44:45Z</time>
+    </rtept>
+    <rtept lat="47.756813" lon="7.70925">
+      <name>P760</name>
+      <ele>843</ele>
+      <time>2008-05-11T13:45:07Z</time>
+    </rtept>
+    <rtept lat="47.75145" lon="7.705631">
+      <name>P761</name>
+      <ele>800</ele>
+      <time>2008-05-11T13:46:09Z</time>
+    </rtept>
+    <rtept lat="47.749653" lon="7.705322">
+      <name>P762</name>
+      <ele>779</ele>
+      <time>2008-05-11T13:46:26Z</time>
+    </rtept>
+    <rtept lat="47.747628" lon="7.701367">
+      <name>P763</name>
+      <ele>734</ele>
+      <time>2008-05-11T13:46:54Z</time>
+    </rtept>
+    <rtept lat="47.745753" lon="7.699508">
+      <name>P764</name>
+      <ele>714</ele>
+      <time>2008-05-11T13:47:12Z</time>
+    </rtept>
+    <rtept lat="47.745727" lon="7.697928">
+      <name>P765</name>
+      <ele>701</ele>
+      <time>2008-05-11T13:47:22Z</time>
+    </rtept>
+    <rtept lat="47.745417" lon="7.697251">
+      <name>P766</name>
+      <ele>691</ele>
+      <time>2008-05-11T13:47:30Z</time>
+    </rtept>
+    <rtept lat="47.744061" lon="7.696975">
+      <name>P767</name>
+      <ele>666</ele>
+      <time>2008-05-11T13:47:49Z</time>
+    </rtept>
+    <rtept lat="47.739985" lon="7.69196">
+      <name>P768</name>
+      <ele>653</ele>
+      <time>2008-05-11T13:50:31Z</time>
+    </rtept>
+    <rtept lat="47.739834" lon="7.69081">
+      <name>P769</name>
+      <ele>650</ele>
+      <time>2008-05-11T13:50:41Z</time>
+    </rtept>
+    <rtept lat="47.737742" lon="7.689659">
+      <name>P770</name>
+      <ele>667</ele>
+      <time>2008-05-11T13:53:36Z</time>
+    </rtept>
+    <rtept lat="47.736502" lon="7.688464">
+      <name>P771</name>
+      <ele>643</ele>
+      <time>2008-05-11T13:53:55Z</time>
+    </rtept>
+    <rtept lat="47.733552" lon="7.687561">
+      <name>P772</name>
+      <ele>622</ele>
+      <time>2008-05-11T13:54:31Z</time>
+    </rtept>
+    <rtept lat="47.733871" lon="7.684556">
+      <name>P773</name>
+      <ele>590</ele>
+      <time>2008-05-11T13:54:49Z</time>
+    </rtept>
+    <rtept lat="47.733164" lon="7.683137">
+      <name>P774</name>
+      <ele>577</ele>
+      <time>2008-05-11T13:54:59Z</time>
+    </rtept>
+    <rtept lat="47.722233" lon="7.673313">
+      <name>P775</name>
+      <ele>498</ele>
+      <time>2008-05-11T13:57:42Z</time>
+    </rtept>
+    <rtept lat="47.721846" lon="7.672039">
+      <name>P776</name>
+      <ele>485</ele>
+      <time>2008-05-11T13:57:53Z</time>
+    </rtept>
+    <rtept lat="47.720494" lon="7.671801">
+      <name>P777</name>
+      <ele>477</ele>
+      <time>2008-05-11T13:58:09Z</time>
+    </rtept>
+    <rtept lat="47.720093" lon="7.669556">
+      <name>P778</name>
+      <ele>467</ele>
+      <time>2008-05-11T13:58:57Z</time>
+    </rtept>
+    <rtept lat="47.718348" lon="7.665439">
+      <name>P779</name>
+      <ele>415</ele>
+      <time>2008-05-11T13:59:34Z</time>
+    </rtept>
+    <rtept lat="47.714729" lon="7.663645">
+      <name>P780</name>
+      <ele>369</ele>
+      <time>2008-05-11T14:00:20Z</time>
+    </rtept>
+    <rtept lat="47.7143761078772" lon="7.66112781754538">
+      <name>P781</name>
+      <ele>366</ele>
+      <time>2008-05-11T14:01:27Z</time>
+    </rtept>
+    <rtept lat="47.712958" lon="7.659657">
+      <name>P782</name>
+      <ele>361</ele>
+      <time>2008-05-11T14:06:29Z</time>
+    </rtept>
+    <rtept lat="47.710991" lon="7.657598">
+      <name>P783</name>
+      <ele>356</ele>
+      <time>2008-05-11T14:07:11Z</time>
+    </rtept>
+    <rtept lat="47.708428" lon="7.656654">
+      <name>P784</name>
+      <ele>367</ele>
+      <time>2008-05-11T14:09:26Z</time>
+    </rtept>
+    <rtept lat="47.705518" lon="7.652333">
+      <name>P785</name>
+      <ele>355</ele>
+      <time>2008-05-11T14:11:45Z</time>
+    </rtept>
+    <rtept lat="47.706177" lon="7.650589">
+      <name>P786</name>
+      <ele>379</ele>
+      <time>2008-05-11T14:13:31Z</time>
+    </rtept>
+    <rtept lat="47.704299" lon="7.650642">
+      <name>P787</name>
+      <ele>363</ele>
+      <time>2008-05-11T14:14:22Z</time>
+    </rtept>
+    <rtept lat="47.70241" lon="7.649635">
+      <name>P788</name>
+      <ele>357</ele>
+      <time>2008-05-11T14:16:12Z</time>
+    </rtept>
+    <rtept lat="47.701625" lon="7.648598">
+      <name>P789</name>
+      <ele>370</ele>
+      <time>2008-05-11T14:19:19Z</time>
+    </rtept>
+    <rtept lat="47.699063" lon="7.647027">
+      <name>P790</name>
+      <ele>393</ele>
+      <time>2008-05-11T14:22:11Z</time>
+    </rtept>
+    <rtept lat="47.696737" lon="7.646426">
+      <name>P791</name>
+      <ele>392</ele>
+      <time>2008-05-11T14:23:24Z</time>
+    </rtept>
+    <rtept lat="47.696507" lon="7.646985">
+      <name>P792</name>
+      <ele>391</ele>
+      <time>2008-05-11T14:23:36Z</time>
+    </rtept>
+    <rtept lat="47.695516" lon="7.647362">
+      <name>P793</name>
+      <ele>366</ele>
+      <time>2008-05-11T14:24:21Z</time>
+    </rtept>
+    <rtept lat="47.695591" lon="7.64783">
+      <name>P794</name>
+      <ele>357</ele>
+      <time>2008-05-11T14:24:32Z</time>
+    </rtept>
+    <rtept lat="47.691502" lon="7.643545">
+      <name>P795</name>
+      <ele>339</ele>
+      <time>2008-05-11T14:27:32Z</time>
+    </rtept>
+    <rtept lat="47.689774" lon="7.64474">
+      <name>P796</name>
+      <ele>326</ele>
+      <time>2008-05-11T14:30:09Z</time>
+    </rtept>
+    <rtept lat="47.689196" lon="7.64547">
+      <name>P797</name>
+      <ele>330</ele>
+      <time>2008-05-11T14:30:39Z</time>
+    </rtept>
+    <rtept lat="47.689394" lon="7.645895">
+      <name>P798</name>
+      <ele>333</ele>
+      <time>2008-05-11T14:30:55Z</time>
+    </rtept>
+    <rtept lat="47.688978" lon="7.646505">
+      <name>P799</name>
+      <ele>338</ele>
+      <time>2008-05-11T14:31:20Z</time>
+    </rtept>
+    <rtept lat="47.688719" lon="7.649574">
+      <name>P800</name>
+      <ele>359</ele>
+      <time>2008-05-11T14:32:57Z</time>
+    </rtept>
+    <rtept lat="47.687202" lon="7.65319">
+      <name>P801</name>
+      <ele>388</ele>
+      <time>2008-05-11T14:35:00Z</time>
+    </rtept>
+    <rtept lat="47.685829" lon="7.654123">
+      <name>P802</name>
+      <ele>395</ele>
+      <time>2008-05-11T14:36:07Z</time>
+    </rtept>
+    <rtept lat="47.684192" lon="7.653264">
+      <name>P803</name>
+      <ele>385</ele>
+      <time>2008-05-11T14:37:38Z</time>
+    </rtept>
+    <rtept lat="47.680939" lon="7.652922">
+      <name>P804</name>
+      <ele>376</ele>
+      <time>2008-05-11T14:38:50Z</time>
+    </rtept>
+    <rtept lat="47.676593" lon="7.655385">
+      <name>P805</name>
+      <ele>388</ele>
+      <time>2008-05-11T15:03:13Z</time>
+    </rtept>
+    <rtept lat="47.674721" lon="7.655483">
+      <name>P806</name>
+      <ele>368</ele>
+      <time>2008-05-11T15:03:54Z</time>
+    </rtept>
+    <rtept lat="47.674728" lon="7.654743">
+      <name>P807</name>
+      <ele>363</ele>
+      <time>2008-05-11T15:04:04Z</time>
+    </rtept>
+    <rtept lat="47.673189" lon="7.652938">
+      <name>P808</name>
+      <ele>340</ele>
+      <time>2008-05-11T15:04:30Z</time>
+    </rtept>
+    <rtept lat="47.67126" lon="7.652434">
+      <name>P809</name>
+      <ele>321</ele>
+      <time>2008-05-11T15:05:02Z</time>
+    </rtept>
+    <rtept lat="47.66866" lon="7.654778">
+      <name>P810</name>
+      <ele>309</ele>
+      <time>2008-05-11T15:06:07Z</time>
+    </rtept>
+    <rtept lat="47.667882" lon="7.654319">
+      <name>P811</name>
+      <ele>316</ele>
+      <time>2008-05-11T15:06:39Z</time>
+    </rtept>
+    <rtept lat="47.666026" lon="7.659115">
+      <name>P812</name>
+      <ele>382</ele>
+      <time>2008-05-11T15:12:08Z</time>
+    </rtept>
+    <rtept lat="47.661752" lon="7.663727">
+      <name>P813</name>
+      <ele>408</ele>
+      <time>2008-05-11T15:15:19Z</time>
+    </rtept>
+    <rtept lat="47.660862" lon="7.668069">
+      <name>P814</name>
+      <ele>401</ele>
+      <time>2008-05-11T15:16:01Z</time>
+    </rtept>
+    <rtept lat="47.661559" lon="7.669828">
+      <name>P815</name>
+      <ele>404</ele>
+      <time>2008-05-11T15:17:02Z</time>
+    </rtept>
+    <rtept lat="47.661547" lon="7.67379">
+      <name>P816</name>
+      <ele>420</ele>
+      <time>2008-05-11T15:19:37Z</time>
+    </rtept>
+    <rtept lat="47.65919" lon="7.672175">
+      <name>P817</name>
+      <ele>425</ele>
+      <time>2008-05-11T15:20:47Z</time>
+    </rtept>
+    <rtept lat="47.657753" lon="7.672811">
+      <name>P818</name>
+      <ele>428</ele>
+      <time>2008-05-11T15:21:26Z</time>
+    </rtept>
+    <rtept lat="47.65602" lon="7.67212">
+      <name>P819</name>
+      <ele>431</ele>
+      <time>2008-05-11T15:22:07Z</time>
+    </rtept>
+    <rtept lat="47.655996" lon="7.672952">
+      <name>P820</name>
+      <ele>432</ele>
+      <time>2008-05-11T15:22:20Z</time>
+    </rtept>
+    <rtept lat="47.653367" lon="7.672167">
+      <name>P821</name>
+      <ele>433</ele>
+      <time>2008-05-11T15:23:31Z</time>
+    </rtept>
+    <rtept lat="47.653041" lon="7.668868">
+      <name>P822</name>
+      <ele>427</ele>
+      <time>2008-05-11T15:24:04Z</time>
+    </rtept>
+    <rtept lat="47.652513" lon="7.667928">
+      <name>P823</name>
+      <ele>426</ele>
+      <time>2008-05-11T15:24:28Z</time>
+    </rtept>
+    <rtept lat="47.651567" lon="7.669819">
+      <name>P824</name>
+      <ele>412</ele>
+      <time>2008-05-11T15:25:22Z</time>
+    </rtept>
+    <rtept lat="47.650172" lon="7.670525">
+      <name>P825</name>
+      <ele>411</ele>
+      <time>2008-05-11T15:25:45Z</time>
+    </rtept>
+    <rtept lat="47.649153" lon="7.67102">
+      <name>P826</name>
+      <ele>408</ele>
+      <time>2008-05-11T15:26:03Z</time>
+    </rtept>
+    <rtept lat="47.647725" lon="7.669245">
+      <name>P827</name>
+      <ele>410</ele>
+      <time>2008-05-11T15:26:32Z</time>
+    </rtept>
+    <rtept lat="47.646581" lon="7.670079">
+      <name>P828</name>
+      <ele>412</ele>
+      <time>2008-05-11T15:26:59Z</time>
+    </rtept>
+    <rtept lat="47.645126" lon="7.67012">
+      <name>P829</name>
+      <ele>413</ele>
+      <time>2008-05-11T15:27:31Z</time>
+    </rtept>
+    <rtept lat="47.643814" lon="7.667017">
+      <name>P830</name>
+      <ele>415</ele>
+      <time>2008-05-11T15:28:28Z</time>
+    </rtept>
+    <rtept lat="47.642893" lon="7.666299">
+      <name>P831</name>
+      <ele>417</ele>
+      <time>2008-05-11T15:28:49Z</time>
+    </rtept>
+    <rtept lat="47.640175" lon="7.666164">
+      <name>P832</name>
+      <ele>415</ele>
+      <time>2008-05-11T15:29:31Z</time>
+    </rtept>
+    <rtept lat="47.639185" lon="7.667726">
+      <name>P833</name>
+      <ele>408</ele>
+      <time>2008-05-11T15:30:01Z</time>
+    </rtept>
+    <rtept lat="47.636592" lon="7.667785">
+      <name>P834</name>
+      <ele>379</ele>
+      <time>2008-05-11T15:35:27Z</time>
+    </rtept>
+    <rtept lat="47.637387" lon="7.667163">
+      <name>P835</name>
+      <ele>374</ele>
+      <time>2008-05-11T15:35:45Z</time>
+    </rtept>
+    <rtept lat="47.634925" lon="7.663688">
+      <name>P836</name>
+      <ele>347</ele>
+      <time>2008-05-11T15:36:46Z</time>
+    </rtept>
+    <rtept lat="47.63413" lon="7.661663">
+      <name>P837</name>
+      <ele>351</ele>
+      <time>2008-05-11T15:37:12Z</time>
+    </rtept>
+    <rtept lat="47.634304" lon="7.659105">
+      <name>P838</name>
+      <ele>342</ele>
+      <time>2008-05-11T15:37:48Z</time>
+    </rtept>
+    <rtept lat="47.632476" lon="7.660063">
+      <name>P839</name>
+      <ele>320</ele>
+      <time>2008-05-11T15:38:22Z</time>
+    </rtept>
+    <rtept lat="47.629138" lon="7.655812">
+      <name>P840</name>
+      <ele>302</ele>
+      <time>2008-05-11T15:40:14Z</time>
+    </rtept>
+    <rtept lat="47.627413" lon="7.654042">
+      <name>P841</name>
+      <ele>300</ele>
+      <time>2008-05-11T15:41:06Z</time>
+    </rtept>
+    <rtept lat="47.62916" lon="7.651807">
+      <name>P842</name>
+      <ele>330</ele>
+      <time>2008-05-11T15:42:45Z</time>
+    </rtept>
+    <rtept lat="47.629746" lon="7.646491">
+      <name>P843</name>
+      <ele>368</ele>
+      <time>2008-05-11T15:45:28Z</time>
+    </rtept>
+    <rtept lat="47.628794" lon="7.644846">
+      <name>P844</name>
+      <ele>377</ele>
+      <time>2008-05-11T15:48:05Z</time>
+    </rtept>
+    <rtept lat="47.627443" lon="7.643704">
+      <name>P845</name>
+      <ele>391</ele>
+      <time>2008-05-11T15:49:28Z</time>
+    </rtept>
+    <rtept lat="47.624093" lon="7.637712">
+      <name>P846</name>
+      <ele>420</ele>
+      <time>2008-05-11T15:52:30Z</time>
+    </rtept>
+    <rtept lat="47.622311" lon="7.637473">
+      <name>P847</name>
+      <ele>429</ele>
+      <time>2008-05-11T15:53:20Z</time>
+    </rtept>
+    <rtept lat="47.621665" lon="7.636403">
+      <name>P848</name>
+      <ele>433</ele>
+      <time>2008-05-11T15:53:46Z</time>
+    </rtept>
+    <rtept lat="47.618893" lon="7.636216">
+      <name>P849</name>
+      <ele>449</ele>
+      <time>2008-05-11T15:55:13Z</time>
+    </rtept>
+    <rtept lat="47.615345" lon="7.638503">
+      <name>P850</name>
+      <ele>438</ele>
+      <time>2008-05-11T15:56:31Z</time>
+    </rtept>
+    <rtept lat="47.614521" lon="7.637908">
+      <name>P851</name>
+      <ele>442</ele>
+      <time>2008-05-11T15:56:49Z</time>
+    </rtept>
+    <rtept lat="47.611171" lon="7.638597">
+      <name>P852</name>
+      <ele>445</ele>
+      <time>2008-05-11T15:57:55Z</time>
+    </rtept>
+    <rtept lat="47.609064" lon="7.640765">
+      <name>P853</name>
+      <ele>432</ele>
+      <time>2008-05-11T15:58:26Z</time>
+    </rtept>
+    <rtept lat="47.60238" lon="7.639856">
+      <name>P854</name>
+      <ele>433</ele>
+      <time>2008-05-11T16:00:42Z</time>
+    </rtept>
+    <rtept lat="47.597686" lon="7.641">
+      <name>P855</name>
+      <ele>404</ele>
+      <time>2008-05-11T16:01:49Z</time>
+    </rtept>
+    <rtept lat="47.597194" lon="7.640572">
+      <name>P856</name>
+      <ele>399</ele>
+      <time>2008-05-11T16:02:27Z</time>
+    </rtept>
+    <rtept lat="47.595979" lon="7.641024">
+      <name>P857</name>
+      <ele>363</ele>
+      <time>2008-05-11T16:03:13Z</time>
+    </rtept>
+    <rtept lat="47.595804" lon="7.641592">
+      <name>P858</name>
+      <ele>362</ele>
+      <time>2008-05-11T16:05:01Z</time>
+    </rtept>
+    <rtept lat="47.596369" lon="7.645016">
+      <name>P859</name>
+      <ele>339</ele>
+      <time>2008-05-11T16:06:22Z</time>
+    </rtept>
+    <rtept lat="47.594696" lon="7.644301">
+      <name>P860</name>
+      <ele>314</ele>
+      <time>2008-05-11T16:06:51Z</time>
+    </rtept>
+    <rtept lat="47.593802" lon="7.644781">
+      <name>P861</name>
+      <ele>296</ele>
+      <time>2008-05-11T16:07:43Z</time>
+    </rtept>
+    <rtept lat="47.593113" lon="7.64444">
+      <name>P862</name>
+      <ele>291</ele>
+      <time>2008-05-11T16:08:04Z</time>
+    </rtept>
+    <rtept lat="47.592247" lon="7.646227">
+      <name>P863</name>
+      <ele>272</ele>
+      <time>2008-05-11T16:10:00Z</time>
+    </rtept>
+    <rtept lat="47.591457" lon="7.645412">
+      <name>P864</name>
+      <ele>271</ele>
+      <time>2008-05-11T16:10:31Z</time>
+    </rtept>
+    <rtept lat="47.5759" lon="7.617323">
+      <name>P865</name>
+      <ele>262</ele>
+      <time>2008-05-11T16:17:04Z</time>
+    </rtept>
+    <rtept lat="47.575182" lon="7.609769">
+      <name>P866</name>
+      <ele>260</ele>
+      <time>2008-05-11T16:18:24Z</time>
+    </rtept>
+    <rtept lat="47.574741" lon="7.609816">
+      <name>P867</name>
+      <ele>259</ele>
+      <time>2008-05-11T16:19:14Z</time>
+    </rtept>
+    <rtept lat="47.574482" lon="7.606381">
+      <name>P868</name>
+      <ele>258</ele>
+      <time>2008-05-11T16:20:00Z</time>
+    </rtept>
+    <rtept lat="47.573286" lon="7.604665">
+      <name>P869</name>
+      <ele>259</ele>
+      <time>2008-05-11T16:20:38Z</time>
+    </rtept>
+    <rtept lat="47.569523" lon="7.608951">
+      <name>P870</name>
+      <ele>262</ele>
+      <time>2008-05-11T16:22:28Z</time>
+    </rtept>
+    <rtept lat="47.5672439954316" lon="7.60678086674528">
+      <name>P871</name>
+      <ele>264</ele>
+      <time>2008-05-11T16:24:56Z</time>
+    </rtept>
+  </rte>
+</gpx>
